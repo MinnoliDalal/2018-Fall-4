@@ -45,7 +45,7 @@ Each Module should take approximately two weeks. You will complete a quiz and an
 
 **Asignment 1**: [ICS4U]() and [ICS4C]()
 
-**Quiz 1**: [Topics to review](2018-Fall-4/QTopics/QT1.pdf)
+**Quiz 1**: [Topics to review](https://github.com/ICS4U-ICS4C/2018-Fall-4/blob/gh-pages/QTopics/QT0.pdf)
 
 ---
 
