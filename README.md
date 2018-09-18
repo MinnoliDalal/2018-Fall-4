@@ -2,8 +2,7 @@
 
 1. Check out our [Class Site](https://ics4u-ics4c.github.io/2018-Fall-4/)
 2. Create a GitHub account
-3. Record your account info with your instructor to enrol in class
-4. Say [Hello](https://guides.github.com/activities/hello-world/) to GitHub!
+3. Say [Hello](https://guides.github.com/activities/hello-world/) to GitHub!
 
 ---
 
@@ -11,19 +10,19 @@
 
 Module 0: [File Maintenance and Version Control](#module-0)
 
-Module 1: [Intro to Python](#module-1)
+Module 1: [Python Loops, Lists, and Strings](#module-1)
 
-Module 2: [Lists and Loops](#module-2)
+Module 2: [Python Functions and Docstrings](#module-2)
    
-Module 3: [Functions, Docstrings, and GUIs](#module-3)
+Module 3: [Python OOP](#module-3)
 
-Module 4: [String Manipulation and Encryption](#module-4)
+Module 4: [Algorithms](#module-4)
 
-Module 5: [Testing and OOP](#module-5)
+Module 5: [Python GUIS and Testing](#module-5)
 
 Module 6: [File IO and Data Visualization](#module-6)
 
-Module 7: [Algorithms](#module-7)
+Module 7: [Computer Science Topics](#module-7)
 
 Module 8: [Software Development Project](#module-8)
 
@@ -36,21 +35,21 @@ Each Module should take approximately two weeks. You will complete a quiz and an
 
 **Asignment 0**: [ICS4U](https://classroom.github.com/a/y34EerbD) and [ICS4C](https://classroom.github.com/a/y34EerbD)
 
-**Quiz 0**: [Topics to review](2018-Fall-4/QTopics/QT0.pdf)
+**Quiz 0**: [Topics to review](https://github.com/ICS4U-ICS4C/2018-Fall-4/blob/gh-pages/QTopics/QT0.pdf)
 
 ---
 
 # Module 1
-## Intro to Python
+## Python Loops, Lists, and Strings
 
 **Asignment 1**: [ICS4U]() and [ICS4C]()
 
-**Quiz 1**: [Topics to review](https://github.com/ICS4U-ICS4C/2018-Fall-4/blob/gh-pages/QTopics/QT0.pdf)
+**Quiz 1**: [Topics to review](https://github.com/ICS4U-ICS4C/2018-Fall-4/blob/gh-pages/QTopics/QT1.pdf)
 
 ---
 
 # Module 2
-## Lists and Loops
+## Python Functions and Docstrings
 
 **Asignment 2**: ICS4U and ICS4C
 
@@ -68,7 +67,7 @@ Each Module should take approximately two weeks. You will complete a quiz and an
 ---
 
 # Module 4
-## String Manipulation and Encryption
+## Algorithms
 
 **Asignment 4**: ICS4U and ICS4C
 
@@ -77,7 +76,7 @@ Each Module should take approximately two weeks. You will complete a quiz and an
 ---
 
 # Module 5
-## Testing and OOP
+## Python GUIS and Testing
 
 **Asignment 5**: ICS4U and ICS4C
 
@@ -95,7 +94,7 @@ Each Module should take approximately two weeks. You will complete a quiz and an
 ---
 
 # Module 7
-## Algorithms
+## Computer Science Topics
 
 **Asignment 7**: ICS4U and ICS4C
 
