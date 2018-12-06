@@ -1,18 +1,22 @@
-table#dates {
-    width: 80%; 
-    background-color: #f1f1c1;
-    text-align: center;
+#languages {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
 }
 
-table#dates tr:nth-child(even) {
-    background-color: #eee;
+#languages td, #languages th {
+  border: 1px solid #ddd;
+  padding: 8px;
 }
 
-table#dates tr:nth-child(odd) {
-    background-color: #fff;
-}
+#languages tr:nth-child(even){background-color: #f2f2f2;}
 
-table#dates th {
-    color: white;
-    background-color: black;
+#languages tr:hover {background-color: #ddd;}
+
+#languages th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #4CAF50;
+  color: white;
 }
