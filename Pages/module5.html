@@ -103,16 +103,61 @@
     <p style="font-weight:initial"> 
       <a href="https://python-textbok.readthedocs.io/en/1.0/Sorting_and_Searching_Algorithms.html">Sorting and Searching Algorithms in Python</a>
       <a href="http://bigocheatsheet.com/">Algorithm Complexity Summary Diagram</a>
-      <p>Merge Sort Summary:<br> (compliments of M.S.)</p> 
+    </p>
+  </div>
+	
+  <!-- Merge Sort Summary -->
+  <div class="w3-container" id="M4" style="margin-top:35px">
+    <h1 class="w3-xlarge w3-text-green"><b>Merge Sort Summary (compliments of M.S.)</h1>
+    <p style="font-weight:initial"> 
+      <p>(compliments of M.S.)</p> 
       <ul>
 	<li>Recursive function (it calls itself)</li>
 	<li>divides list into halves until each value is separate</li>
 	<li>compares the values and reconstructs the list in order</li>
 	<li>most efficient when working with list sizes equal to or close to powers of 2</li>
       </ul>
-      
     </p>
-  </div>
+  
+    <!-- MS's Merge Sort Example -->
+    <figcaption style="margin-top:35px;">Manav's merge sort example:</figcaption>
+    <pre class="prettyprint"><code style="font-family: monospace;font-weight:initial"> 
+     http://interactivepython.org/courselib/static/pythonds/SortSearch/TheMergeSort.html
+     #backgound and sample on merge sort
+     def merge_sort(num_list):
+     i = 0
+     j = 0
+     sorted_list = []
+     if len(num_list) > 1:
+         mid = len(num_list)//2
+         part_one = num_list[:mid]
+         part_two = num_list[mid:]
+ 
+          part_one = merge_sort(part_one)
+         part_two = merge_sort(part_two)
+     else:
+         return num_list
+ 
+     while True:
+         if part_one[i] < part_two[j]:
+             sorted_list.append(part_one[i])
+             i+=1
+         else:
+             sorted_list.append(part_two[j])
+             j+=1
+ 
+          if (i >= len(part_one)):
+             sorted_list = sorted_list + part_two[j:]
+             break
+         elif (j >= len(part_two)):
+             sorted_list = sorted_list + part_one[i:]
+             break
+     return sorted_list
+ 
+     print(merge_sort(num_list))
+ 
+    </code></pre>
+</div>	
 	
   <!--Review for Quiz-->
   <h1 style="margin-top:35px" class="w3-xlarge w3-text-green "><b>Review for Quiz</b></h1> 
