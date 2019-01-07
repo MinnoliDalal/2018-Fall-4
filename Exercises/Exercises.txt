@@ -1,0 +1,769 @@
+Postal Code|Place Name|Province|Latitude|Longitude
+T0A|Eastern Alberta (St. Paul)|Alberta|53.9225|-111.0585
+T0B|Wainwright Region (Tofield)|Alberta|53.0635|-112.3067
+T0C|Central Alberta (Stettler)|Alberta|51.9565|-110.0761
+T0E|Western Alberta (Jasper)|Alberta|53.8486|-114.4361
+T0G|North Central Alberta (Slave Lake)|Alberta|54.2653|-115.3827
+T0H|Northwestern Alberta (High Level)|Alberta|56.6598|-117.2896
+T0J|Southeastern Alberta (Drumheller)|Alberta|49.8442|-110.78
+T0K|International Border Region (Cardston)|Alberta|49.7318|-112.6171
+T0L|Kananaskis Country (Claresholm)|Alberta|49.8736|-113.5074
+T0M|Central Foothills (Sundre)|Alberta|52.0306|-113.9565
+T0P|Northeastern Alberta (Fort Chipewyan)|Alberta|58.759|-111.0874
+T0V|Remote Northeast (Fitzgerald)|Alberta|59.8685|-111.6329
+T1A|Medicine Hat Central|Alberta|50.0365|-110.661
+T1B|Medicine Hat South|Alberta|50.0172|-110.651
+T1C|Medicine Hat North|Alberta|50.0556|-110.6822
+T1G|Taber|Alberta|49.7773|-112.158
+T1H|Lethbridge North|Alberta|49.7118|-112.8196
+T1J|Lethbridge West and Central|Alberta|49.6915|-112.8294
+T1K|Lethbridge Southeast|Alberta|49.6765|-112.8035
+T1L|Banff|Alberta|51.1791|-115.5697
+T1M|Coaldale|Alberta|49.7285|-112.6146
+T1P|Strathmore|Alberta|51.0459|-113.3967
+T1R|Brooks|Alberta|50.5659|-111.8896
+T1S|Okotoks|Alberta|50.7064|-113.9554
+T1V|High River|Alberta|50.5775|-113.8747
+T1W|Canmore|Alberta|51.0868|-115.3384
+T1X|Chestermere|Alberta|51.0512|-113.8155
+T1Y|Calgary (Rundle / Whitehorn / Monterey Park)|Alberta|51.0759|-114.0015
+T2A|Calgary (Penbrooke Meadows / Marlborough)|Alberta|51.0402|-113.9844
+T2B|Calgary (Forest Lawn / Dover / Erin Woods)|Alberta|51.0318|-113.9786
+T2C|Calgary (Lynnwood Ridge / Ogden / Foothills Industrial / Great Plains)|Alberta|50.9878|-114.0001
+T2E|Calgary (Bridgeland / Greenview / Zoo / YYC)|Alberta|51.0632|-114.0614
+T2G|Calgary (Inglewood / Burnsland / Chinatown / East Victoria Park / Saddledome)|Alberta|51.0415|-114.0599
+T2H|Calgary (Highfield / Burns Industrial)|Alberta|50.9857|-114.0631
+T2J|Calgary (Queensland Downs / Lake Bonavista / Willow Park / Acadia)|Alberta|50.9693|-114.0514
+T2K|Calgary (Thornecliffe / Tuxedo)|Alberta|51.0857|-114.0714
+T2L|Calgary (Brentwood / Collingwood / Nose Hill)|Alberta|51.0917|-114.1127
+T2M|Calgary (Mount Pleasant / Capitol Hill / Banff Trail)|Alberta|51.0696|-114.0862
+T2N|Calgary (Kensington / Westmont / Parkdale / University)|Alberta|51.0591|-114.1146
+T2P|Calgary (City Centre / Calgary Tower)|Alberta|51.0472|-114.0802
+T2R|Calgary (Connaught / West Victoria Park)|Alberta|51.0426|-114.0791
+T2S|Calgary (Elbow Park / Britannia / Parkhill / Mission)|Alberta|51.0171|-114.0812
+T2T|Calgary South (Altadore / Bankview / Richmond)|Alberta|51.0316|-114.0994
+T2V|Calgary (Oak Ridge / Haysboro / Kingsland / Windsor Park)|Alberta|50.9909|-114.074
+T2W|Calgary (Braeside / Woodbine)|Alberta|50.9604|-114.1001
+T2X|Calgary (Midnapore / Sundance)|Alberta|50.9204|-114.0674
+T2Y|Calgary (Millrise / Somerset / Bridlewood / Evergreen)|Alberta|50.9093|-114.0721
+T2Z|Calgary (Douglas Glen / McKenzie Lake / Copperfield / East Shepard)|Alberta|50.9023|-113.9873
+T3A|Calgary (Dalhousie / Edgemont / Hamptons / Hidden Valley)|Alberta|51.0922|-114.1479
+T3B|Calgary (Montgomery / Bowness / Silver Springs / Greenwood)|Alberta|51.0809|-114.1616
+T3C|Calgary (Rosscarrock / Wildwood / Shaganappi / Sunalta)|Alberta|51.0388|-114.098
+T3E|Calgary (Lakeview / Glendale / Killarney / Glamorgan)|Alberta|51.0227|-114.1342
+T3G|Calgary (Hawkwood / Arbour Lake / Royal Oak / Rocky Ridge)|Alberta|51.1147|-114.1796
+T3H|Calgary (Discovery Ridge / Signal Hill / Aspen Woods / Patterson / Cougar Ridge)|Alberta|51.0566|-114.1815
+T3J|Calgary (Martindale / Taradale / Falconridge / Saddle Ridge)|Alberta|51.0999|-113.9422
+T3K|Calgary (Sandstone / Harvest Hills / Coventry Hills / Panorama Hills / Beddington)|Alberta|51.127|-114.0787
+T3L|Calgary (Tuscany / Scenic Acres)|Alberta|51.1162|-114.2089
+T3M|Calgary (Cranston)|Alberta|50.8902|-113.9892
+T3N|Calgary Northeast|Alberta|51.1494|-114.0019
+T3P|Calgary (Symons Valley)|Alberta|51.1793|-114.1333
+T3R|Calgary Northwest|Alberta|51.1497|-114.2695
+T3Z|Redwood Meadows|Alberta|50.9821|-114.5178
+T4A|Airdrie East|Alberta|51.2733|-113.9909
+T4B|Airdrie West|Alberta|51.2816|-114.0153
+T4C|Cochrane|Alberta|51.1896|-114.4774
+T4E|Red Deer County|Alberta|52.2911|-113.7027
+T4G|Innisfail|Alberta|52.029|-113.9474
+T4H|Olds|Alberta|51.7956|-114.0944
+T4J|Ponoka|Alberta|52.6649|-113.5823
+T4L|Lacombe|Alberta|52.36|-114.3736
+T4N|Red Deer Central|Alberta|52.2592|-113.8237
+T4P|Red Deer North|Alberta|52.2887|-113.8394
+T4R|Red Deer South|Alberta|52.2451|-113.7855
+T4S|Sylvan Lake|Alberta|52.3083|-114.0949
+T4T|Rocky Mountain House|Alberta|52.378|-114.9307
+T4V|Camrose|Alberta|53.0204|-112.8129
+T4X|Beaumont|Alberta|53.3571|-113.4129
+T5A|Edmonton (West Clareview / East Londonderry)|Alberta|53.5899|-113.4413
+T5B|Edmonton (East North Central / West Beverly)|Alberta|53.5766|-113.4608
+T5C|Edmonton (Central Londonderry)|Alberta|53.6129|-113.4572
+T5E|Edmonton (West Londonderry / East Calder)|Alberta|53.5923|-113.5168
+T5G|Edmonton (North Central / Queen Mary Park / YXD)|Alberta|53.5682|-113.4822
+T5H|Edmonton (North and East Downtown Fringe)|Alberta|53.555|-113.4822
+T5J|Edmonton (North Downtown)|Alberta|53.5421|-113.4989
+T5K|Edmonton (South Downtown / South Downtown Fringe)|Alberta|53.535|-113.501
+T5L|Edmonton (North Westmount / West Calder / East Mistatim)|Alberta|53.5801|-113.541
+T5M|Edmonton (South Westmount / Groat Estate / East Northwest Industrial)|Alberta|53.5614|-113.5461
+T5N|Edmonton (Glenora / SW Downtown Fringe)|Alberta|53.5495|-113.5453
+T5P|Edmonton (North Jasper Place)|Alberta|53.5529|-113.584
+T5R|Edmonton (Central Jasper Place / Buena Vista)|Alberta|53.5224|-113.5763
+T5S|Edmonton (West Northwest Industrial / Winterburn)|Alberta|53.5416|-113.6249
+T5T|Edmonton West (West Jasper Place / West Edmonton Mall)|Alberta|53.5157|-113.6339
+T5V|Edmonton (Central Mistatim)|Alberta|53.58|-113.5873
+T5W|Edmonton (Central Beverly)|Alberta|53.5705|-113.4036
+T5X|Edmonton (East Castledowns)|Alberta|53.6072|-113.5183
+T5Y|Edmonton (Landbank / Oliver / East Lake District)|Alberta|53.6026|-113.3837
+T5Z|Edmonton (West Lake District)|Alberta|53.5966|-113.4882
+T6A|Edmonton (North Capilano)|Alberta|53.5483|-113.408
+T6B|Edmonton (SE Capilano / West Southeast Industrial / East Bonnie Doon)|Alberta|53.5322|-113.4404
+T6C|Edmonton (Central Bonnie Doon)|Alberta|53.5182|-113.4769
+T6E|Edmonton (South Bonnie Doon / East University)|Alberta|53.5087|-113.5078
+T6G|Edmonton (West University / Strathcona Place)|Alberta|53.5248|-113.5334
+T6H|Edmonton (Southgate / North Riverbend)|Alberta|53.4839|-113.5227
+T6J|Edmonton (Kaskitayo)|Alberta|53.4822|-113.5269
+T6K|Edmonton (West Mill Woods)|Alberta|53.4816|-113.4623
+T6L|Edmonton (East Mill Woods)|Alberta|53.4681|-113.4339
+T6M|Edmonton Southwest|Alberta|53.4967|-113.6162
+T6N|Edmonton (South Industrial)|Alberta|53.458|-113.4826
+T6P|Edmonton (East Southeast Industrial / South Clover Bar)|Alberta|53.4996|-113.3678
+T6R|Edmonton (Riverbend)|Alberta|53.4782|-113.5873
+T6S|Edmonton (North Clover Bar)|Alberta|53.5729|-113.3518
+T6T|Edmonton (Meadows)|Alberta|53.4768|-113.3662
+T6V|Edmonton (West Castledowns)|Alberta|53.6202|-113.543
+T6W|Edmonton (Heritage Valley)|Alberta|53.4129|-113.4957
+T6X|Edmonton (Ellerslie)|Alberta|53.4154|-113.4917
+T7A|Drayton Valley|Alberta|53.2165|-114.9893
+T7E|Edson|Alberta|53.5908|-116.4104
+T7N|Barrhead|Alberta|54.1136|-114.3932
+T7P|Westlock|Alberta|54.166|-113.8452
+T7S|Whitecourt|Alberta|54.1407|-115.6873
+T7V|Hinton|Alberta|53.3981|-117.5552
+T7X|Spruce Grove North|Alberta|53.549|-113.8995
+T7Y|Spruce Grove South|Alberta|53.4495|-113.7135
+T7Z|Stony Plain|Alberta|53.5202|-114.0135
+T8A|Sherwood Park West|Alberta|53.519|-113.3216
+T8B|Sherwood Park Outer Southwest|Alberta|53.4482|-113.2706
+T8C|Sherwood Park Inner Southwest|Alberta|53.4162|-113.148
+T8E|Sherwood Park Central|Alberta|53.4548|-113.0498
+T8G|Sherwood Park East|Alberta|53.4749|-112.9512
+T8H|Sherwood Park Northwest|Alberta|53.5462|-113.2562
+T8L|Fort Saskatchewan|Alberta|53.6916|-113.2286
+T8N|St. Albert|Alberta|53.6199|-113.6377
+T8R|Morinville|Alberta|53.7903|-113.646
+T8S|Peace River|Alberta|56.2539|-117.2849
+T8V|Grande Prairie Central|Alberta|55.1726|-118.7997
+T8W|Grande Prairie South|Alberta|55.1389|-118.773
+T8X|Grande Prairie East|Alberta|55.1749|-118.7633
+T9A|Wetaskiwin|Alberta|52.9741|-113.3646
+T9C|Vegreville|Alberta|53.4874|-112.0636
+T9E|Leduc|Alberta|53.2524|-113.5388
+T9G|Devon|Alberta|53.3632|-113.7286
+T9H|Fort McMurray Outer Central|Alberta|56.6977|-111.3389
+T9J|Fort McMurray Inner Central|Alberta|56.7057|-111.3723
+T9K|Fort McMurray Northwest|Alberta|56.7273|-111.4361
+T9M|Cold Lake|Alberta|54.4127|-110.2162
+T9N|Bonnyville|Alberta|54.2678|-110.7324
+T9S|Athabasca|Alberta|54.7139|-113.2942
+T9V|Lloydminster|Alberta|53.2786|-110.0233
+T9W|Wainwright|Alberta|52.8403|-110.8704
+T9X|Vermilion|Alberta|53.3515|-110.8451
+V0A|Upper Columbia Region (Golden)|British Columbia|50.5402|-116.0019
+V0B|East Kootenays (Fernie)|British Columbia|49.4539|-116.763
+V0C|Northern British Columbia (Fort Nelson)|British Columbia|56.2478|-120.8491
+V0E|Central Okanagan and High Country (Revelstoke)|British Columbia|50.9647|-119.1638
+V0G|West Kootenays (Rossland)|British Columbia|49.7332|-116.913
+V0H|South Okanagan (Summerland)|British Columbia|49.2357|-119.0117
+V0J|Omineca and Yellowhead (Smithers)|British Columbia|55.2046|-129.0828
+V0K|Cariboo and West Okanagan (100 Mile House)|British Columbia|50.7372|-121.2713
+V0L|Chilcotin (Alexis Creek)|British Columbia|52.4018|-124.0226
+V0M|Harrison Lake Region (Agassiz)|British Columbia|49.2341|-121.7705
+V0N|North Island
+V0P|North Central Island and Bute Inlet Region (Gold River)|British Columbia|50.898|-124.8633
+V0R|Central Island (Chemainus)|British Columbia|49.2818|-126.0627
+V0S|Juan de Fuca Shore (Sooke)|British Columbia|48.5788|-123.4637
+V0T|Inside Passage and the Queen Charlottes (Queen Charlotte City)|British Columbia|54.7992|-130.0782
+V0V|Lower Skeena (Port Edward)|British Columbia|53.4242|-129.263
+V0W|Atlin Region (Atlin)|British Columbia|59.4808|-133.6312
+V0X|Similkameen (Hope)|British Columbia|49.0538|-122.476
+V1A|Kimberley|British Columbia|49.6626|-115.9667
+V1B|Vernon East|British Columbia|50.2158|-119.2709
+V1C|Cranbrook|British Columbia|49.512|-115.7703
+V1E|Salmon Arm|British Columbia|50.6947|-119.2915
+V1G|Dawson Creek|British Columbia|55.7741|-120.2533
+V1H|Vernon West|British Columbia|50.2629|-119.3037
+V1J|Fort St. John|British Columbia|56.2306|-120.8277
+V1K|Merritt|British Columbia|50.1076|-120.7755
+V1L|Nelson|British Columbia|49.4832|-117.3031
+V1M|Langley Township North|British Columbia|49.164|-122.656
+V1N|Castlegar|British Columbia|49.3298|-117.6607
+V1P|Kelowna East|British Columbia|49.8808|-119.3647
+V1R|Trail|British Columbia|49.1135|-117.716
+V1S|Kamloops Southwest|British Columbia|50.6553|-120.3811
+V1T|Vernon Central|British Columbia|50.2533|-119.2798
+V1V|Kelowna North|British Columbia|49.929|-119.4676
+V1W|Kelowna Southwest|British Columbia|49.842|-119.4903
+V1X|Kelowna East Central|British Columbia|49.8754|-119.3958
+V1Y|Kelowna Central|British Columbia|49.8803|-119.5004
+V1Z|Kelowna West|British Columbia|49.88|-119.5355
+V2A|Penticton|British Columbia|49.5031|-119.5905
+V2B|Kamloops Northwest|British Columbia|50.6903|-120.3634
+V2C|Kamloops Central and Southeast|British Columbia|50.6764|-120.3399
+V2E|Kamloops South and West|British Columbia|50.6598|-120.3837
+V2G|Williams Lake|British Columbia|52.1276|-122.1271
+V2H|Kamloops North|British Columbia|50.6902|-120.0461
+V2J|Quesnel|British Columbia|52.9692|-122.5057
+V2K|Prince George North|British Columbia|53.9313|-122.7823
+V2L|Prince George East Central|British Columbia|53.9112|-122.728
+V2M|Prince George West Central|British Columbia|53.928|-122.7878
+V2N|Prince George South|British Columbia|53.9103|-122.7835
+V2P|Chilliwack Central|British Columbia|49.1551|-121.9459
+V2R|Chilliwack West|British Columbia|49.1409|-121.962
+V2S|Abbotsford Southeast|British Columbia|49.0312|-122.3012
+V2T|Abbotsford Southwest|British Columbia|49.0382|-122.335
+V2V|Mission East|British Columbia|49.1337|-122.3434
+V2W|Maple Ridge East|British Columbia|49.2201|-122.4985
+V2X|Maple Ridge West|British Columbia|49.2007|-122.6641
+V2Y|Langley Township Northwest|British Columbia|49.1175|-122.6684
+V2Z|Langley Township Southwest|British Columbia|49.0501|-122.6745
+V3A|Langley City|British Columbia|49.0764|-122.6797
+V3B|Port Coquitlam Central|British Columbia|49.2733|-122.7965
+V3C|Port Coquitlam South|British Columbia|49.2334|-122.77
+V3E|Port Coquitlam North|British Columbia|49.2796|-122.8105
+V3G|Abbotsford East|British Columbia|49.0625|-122.2457
+V3H|Port Moody|British Columbia|49.2707|-122.883
+V3J|Coquitlam North|British Columbia|49.2536|-122.9085
+V3K|Coquitlam South|British Columbia|49.2358|-122.8693
+V3L|New Westminster Northeast|British Columbia|49.2136|-122.8949
+V3M|New Westminster Southwest (Includes Annacis Island)|British Columbia|49.2007|-122.9074
+V3N|Burnaby (East Big Bend / Stride Avenue / Edmonds / Cariboo-Armstrong)|British Columbia|49.2201|-122.9478
+V3R|Surrey North|British Columbia|49.1641|-122.8193
+V3S|Surrey East|British Columbia|49.1011|-122.8141
+V3T|Surrey Inner Northwest|British Columbia|49.1783|-122.8665
+V3V|Surrey Outer Northwest|British Columbia|49.1647|-122.8487
+V3W|Surrey Upper West|British Columbia|49.0992|-122.8691
+V3X|Surrey Lower West|British Columbia|49.1173|-122.8234
+V3Y|Pitt Meadows|British Columbia|49.2273|-122.6883
+V4A|Surrey Southwest|British Columbia|49.0168|-122.7738
+V4B|White Rock|British Columbia|49.0268|-122.8369
+V4C|Delta Northeast|British Columbia|49.1348|-122.9131
+V4E|Delta East|British Columbia|49.0482|-122.9587
+V4G|Delta East Central|British Columbia|49.1367|-123.0115
+V4K|Delta Central|British Columbia|49.0798|-123.0882
+V4L|Delta Southeast|British Columbia|49.0023|-123.0368
+V4M|Delta Southwest|British Columbia|49.0025|-123.0746
+V4N|Surrey Northeast|British Columbia|49.1636|-122.7677
+V4P|Surrey South|British Columbia|49.0499|-122.804
+V4R|Maple Ridge Northwest|British Columbia|49.2225|-122.4984
+V4S|Mission West|British Columbia|49.1589|-122.3089
+V4T|Westbank|British Columbia|49.838|-119.6667
+V4V|Winfield|British Columbia|50.0734|-119.4444
+V4W|Langley Township East|British Columbia|49.1307|-122.5369
+V4X|Abbotsford West|British Columbia|49.0024|-122.4419
+V4Z|Chilliwack East|British Columbia|49.146|-121.9435
+V5A|Burnaby (Government Road / Lake City / SFU / Burnaby Mountain)|British Columbia|49.2869|-122.958
+V5B|Burnaby (Parkcrest-Aubrey / Ardingley-Sprott)|British Columbia|49.2846|-122.9914
+V5C|Burnaby (Burnaby Heights / Willingdon Heights / West Central Valley)|British Columbia|49.2848|-123.0222
+V5E|Burnaby (Lakeview-Mayfield / Richmond Park / Kingsway-Beresford)|British Columbia|49.2124|-122.9696
+V5G|Burnaby (Cascade-Schou / Douglas-Gilpin)|British Columbia|49.2591|-123.0226
+V5H|Burnaby (Maywood / Marlborough / Oakalla / Windsor)|British Columbia|49.2371|-123.0229
+V5J|Burnaby (Suncrest / Sussex-Nelson / Clinton-Glenwood / West Big Bend)|British Columbia|49.2218|-123.022
+V5K|Vancouver (North Hastings- Sunrise)|British Columbia|49.293|-123.0489
+V5L|Vancouver (North Grandview- Woodlands)|British Columbia|49.2835|-123.0786
+V5M|Vancouver (South Hastings-Sunrise / North Renfrew- Collingwood)|British Columbia|49.2695|-123.0556
+V5N|Vancouver (South Grandview- Woodlands / NE Kensington)|British Columbia|49.2699|-123.0765
+V5P|Vancouver (SE Kensington / Victoria- Fraserview)|British Columbia|49.2393|-123.0729
+V5R|Vancouver (South Renfrew- Collingwood)|British Columbia|49.2499|-123.0556
+V5S|Vancouver (Killarney)|British Columbia|49.2286|-123.057
+V5T|Vancouver (East Mount Pleasant)|British Columbia|49.2701|-123.1038
+V5V|Vancouver (West Kensington / NE Riley Park- Little Mountain)|British Columbia|49.2558|-123.1037
+V5W|Vancouver (SE Riley Park- Little Mountain / SW Kensington / NE Oakridge / North Sunset)|British Columbia|49.2396|-123.0984
+V5X|Vancouver (SE Oakridge / East Marpole / South Sunset)|British Columbia|49.2249|-123.1052
+V5Y|Vancouver (West Mount Pleasant / West Riley Park- Little Mountain)|British Columbia|49.2702|-123.1017
+V5Z|Vancouver (East Fairview / South Cambie)|British Columbia|49.2658|-123.1151
+V6A|Vancouver (Strathcona / Chinatown / Downtown Eastside)|British Columbia|49.2862|-123.0925
+V6B|Vancouver (NE Downtown / Harbour Centre / Gastown / Yaletown)|British Columbia|49.2836|-123.1041
+V6C|Vancouver (Waterfront / Coal Harbour / Canada Place)|British Columbia|49.2857|-123.1142
+V6E|Vancouver (South West End)|British Columbia|49.2848|-123.1228
+V6G|Vancouver (North West End / Stanley Park)|British Columbia|49.289|-123.1294
+V6H|Vancouver (West Fairview / Granville Island / NE Shaughnessy)|British Columbia|49.2661|-123.1276
+V6J|Vancouver (NW Shaughnessy / East Kitsilano / Quilchena)|British Columbia|49.2768|-123.1469
+V6K|Vancouver (Central Kitsilano)|British Columbia|49.2738|-123.161
+V6L|Vancouver (NW Arbutus Ridge)|British Columbia|49.2571|-123.1662
+V6M|Vancouver (South Shaughnessy / NW Oakridge / NE Kerrisdale / SE Arbutus Ridge)|British Columbia|49.2417|-123.1293
+V6N|Vancouver (Dunbar- Southlands / Musqueam)|British Columbia|49.2376|-123.1639
+V6P|Vancouver (SE Kerrisdale / SW Oakridge / West Marpole)|British Columbia|49.2254|-123.1176
+V6R|Vancouver (West Kitsilano / Jericho)|British Columbia|49.273|-123.185
+V6S|Vancouver (Chaldecutt / South University Endowment Lands)|British Columbia|49.2574|-123.1836
+V6T|Vancouver (UBC)|British Columbia|49.2765|-123.2177
+V6V|Richmond Northeast|British Columbia|49.1699|-123.0912
+V6W|Richmond Southeast|British Columbia|49.1261|-123.0897
+V6X|Richmond North|British Columbia|49.1701|-123.1438
+V6Y|Richmond Central|British Columbia|49.1483|-123.1469
+V6Z|Vancouver (SW Downtown)|British Columbia|49.2814|-123.12
+V7A|Richmond South|British Columbia|49.1467|-123.1463
+V7B|Richmond (Sea Island / YVR)|British Columbia|49.178|-123.1701
+V7C|Richmond West|British Columbia|49.1745|-123.1978
+V7E|Richmond Southwest|British Columbia|49.1476|-123.1897
+V7G|North Vancouver Outer East|British Columbia|49.304|-122.9689
+V7H|North Vancouver Inner East|British Columbia|49.3011|-123.0205
+V7J|North Vancouver East Central|British Columbia|49.3016|-123.0309
+V7K|North Vancouver North Central|British Columbia|49.3322|-123.0518
+V7L|North Vancouver South Central|British Columbia|49.3042|-123.0651
+V7M|North Vancouver Southwest Central|British Columbia|49.3111|-123.0798
+V7N|North Vancouver Northwest Central|British Columbia|49.3325|-123.0674
+V7P|North Vancouver Southwest|British Columbia|49.3181|-123.096
+V7R|North Vancouver Northwest|British Columbia|49.3328|-123.1043
+V7S|West Vancouver North|British Columbia|49.3585|-123.1186
+V7T|West Vancouver Southeast|British Columbia|49.324|-123.1036
+V7V|West Vancouver South|British Columbia|49.3271|-123.1578
+V7W|West Vancouver West|British Columbia|49.3465|-123.238
+V7X|Vancouver (Bentall Centre)|British Columbia|49.2935|-123.1162
+V7Y|Vancouver (Pacific Centre)|British Columbia|49.2816|-123.1247
+V8A|Powell River|British Columbia|49.8021|-124.5124
+V8B|Squamish|British Columbia|49.7497|-123.136
+V8C|Kitimat|British Columbia|54.0662|-128.6508
+V8G|Terrace|British Columbia|54.5058|-128.5823
+V8J|Prince Rupert|British Columbia|54.3146|-130.3413
+V8K|Saltspring Island|British Columbia|48.9145|-123.5657
+V8L|Sidney|British Columbia|48.6128|-123.4198
+V8M|Central Saanich|British Columbia|48.566|-123.4579
+V8N|Saanich East|British Columbia|48.471|-123.3438
+V8P|Saanich Southeast|British Columbia|48.4458|-123.3328
+V8R|Oak Bay North|British Columbia|48.4266|-123.3444
+V8S|Oak Bay South|British Columbia|48.4061|-123.3504
+V8T|Victoria North|British Columbia|48.4278|-123.3574
+V8V|Victoria South|British Columbia|48.4192|-123.3856
+V8W|Victoria Central British Columbia Provincial Government|British Columbia|48.4202|-123.3671
+V8X|Saanich South|British Columbia|48.4488|-123.3501
+V8Y|Saanich North|British Columbia|48.501|-123.3804
+V8Z|Saanich Central|British Columbia|48.4449|-123.3745
+V9A|Esquimalt|British Columbia|48.449|-123.3842
+V9B|Highlands|British Columbia|48.4519|-123.4417
+V9C|Metchosin|British Columbia|48.4544|-123.458
+V9E|Saanich West|British Columbia|48.4633|-123.4538
+V9G|Ladysmith|British Columbia|50.089|-125.3444
+V9H|Campbell River Outskirts|British Columbia|49.9164|-125.1875
+V9J|Courtenay Northern Outskirts|British Columbia|49.8684|-125.1252
+V9K|Qualicum Beach|British Columbia|49.3506|-124.409
+V9L|Duncan|British Columbia|48.7768|-123.7077
+V9M|Comox|British Columbia|49.6728|-124.947
+V9N|Courtenay Central|British Columbia|49.686|-125.0191
+V9P|Parksville|British Columbia|49.3233|-124.3227
+V9R|Nanaimo South|British Columbia|49.136|-123.9483
+V9S|Nanaimo Central|British Columbia|49.174|-123.9422
+V9T|Nanaimo North|British Columbia|49.2079|-123.979
+V9V|Nanaimo Northwest|British Columbia|49.2477|-124.0501
+V9W|Campbell River Central|British Columbia|50.0059|-125.2343
+V9X|Cedar|British Columbia|49.1207|-123.9284
+V9Y|Port Alberni|British Columbia|49.2197|-124.8101
+R0A|Southeastern Manitoba (Lorette)|Manitoba|49.0563|-96.1126
+R0B|Northern Manitoba (Norway House)|Manitoba|55.8244|-98.8348
+R0C|North Interlake (Stonewall)|Manitoba|50.7011|-97.1462
+R0E|Eastern Manitoba (Beausejour)|Manitoba|50.4275|-95.3439
+R0G|South Central Manitoba (Altona)|Manitoba|49.0698|-98.7619
+R0H|South Interlake (MacGregor)|Manitoba|49.7223|-99.0009
+R0J|Riding Mountain (Neepawa)|Manitoba|50.7774|-99.5546
+R0K|Brandon Region (Killarney)|Manitoba|49.0694|-99.527
+R0L|Western Manitoba (Swan River)|Manitoba|52.4175|-100.9577
+R0M|Southwestern Manitoba (Virden)|Manitoba|50.0226|-101.3637
+R1A|Selkirk|Manitoba|50.1483|-96.8756
+R1B|Lockport|Manitoba|50.0958|-96.9329
+R1N|Portage la Prairie|Manitoba|49.9694|-98.3131
+R2C|Winnipeg (Transcona)|Manitoba|49.9069|-97.0011
+R2E|East St. Paul|Manitoba|49.9611|-97.0212
+R2G|Winnipeg (River East North)|Manitoba|49.9465|-97.0585
+R2H|Winnipeg (St. Boniface NW)|Manitoba|49.8792|-97.1062
+R2J|Winnipeg (St. Boniface NE)|Manitoba|49.8717|-97.0765
+R2K|Winnipeg (River East Central)|Manitoba|49.9225|-97.0947
+R2L|Winnipeg (River East South)|Manitoba|49.9069|-97.0845
+R2M|Winnipeg (St. Vital North)|Manitoba|49.853|-97.0998
+R2N|Winnipeg (St. Vital SW)|Manitoba|49.819|-97.0926
+R2P|Winnipeg (Seven Oaks West)|Manitoba|49.9585|-97.1796
+R2R|Winnipeg (Inkster West)|Manitoba|49.9324|-97.1988
+R2V|Winnipeg (Seven Oaks East)|Manitoba|49.9378|-97.1183
+R2W|Winnipeg (Point Douglas East)|Manitoba|49.9241|-97.1292
+R2X|Winnipeg (Point Douglas West / Inkster East)|Manitoba|49.928|-97.1618
+R2Y|Winnipeg (St. James-Assiniboia NW)|Manitoba|49.8963|-97.297
+R3A|Winnipeg (Centennial)|Manitoba|49.9004|-97.1457
+R3B|Winnipeg (Chinatown / Civic Centre / Exchange District)|Manitoba|49.8972|-97.1366
+R3C|Winnipeg (Broadway / The Forks / Portage and Main) Manitoba Provincial Government|Manitoba|49.8788|-97.159
+R3E|Winnipeg (Sargent Park / Daniel McIntyre / Inkster SE)|Manitoba|49.9139|-97.1847
+R3G|Winnipeg (Minto / St. Mathews / Wolseley)|Manitoba|49.8826|-97.1623
+R3H|Winnipeg (St. James-Assiniboia NE / YWG)|Manitoba|49.8971|-97.2163
+R3J|Winnipeg (St. James-Assiniboia SE)|Manitoba|49.8858|-97.2601
+R3K|Winnipeg (St. James-Assiniboia SW)|Manitoba|49.8811|-97.3194
+R3L|Winnipeg (River Heights East)|Manitoba|49.8671|-97.1225
+R3M|Winnipeg (River Heights Central)|Manitoba|49.8663|-97.1639
+R3N|Winnipeg (River Heights West)|Manitoba|49.8722|-97.1888
+R3P|Winnipeg (Fort Garry NW / Tuxedo)|Manitoba|49.834|-97.1865
+R3R|Winnipeg (Assiniboine South / Betsworth)|Manitoba|49.854|-97.2712
+R3S|Winnipeg (Wilkes South)|Manitoba|49.842|-97.3083
+R3T|Winnipeg (Fort Garry NE / University of Manitoba)|Manitoba|49.849|-97.1497
+R3V|Winnipeg (Fort Garry South)|Manitoba|49.7732|-97.1561
+R3W|Winnipeg (Grassie / Pequis)|Manitoba|49.8968|-97.0279
+R3X|Winnipeg (St. Boniface South / St. Vital SE)|Manitoba|49.8378|-97.0675
+R3Y|Winnipeg (Fort Garry West)|Manitoba|49.8275|-97.183
+R4A|West St. Paul|Manitoba|49.977|-97.0633
+R4H|Headingley East|Manitoba|49.8628|-97.3348
+R4J|Headingley West|Manitoba|49.8987|-97.3843
+R4K|Cartier|Manitoba|49.8298|-97.7549
+R4L|St. Francois Xavier|Manitoba|49.8943|-97.5178
+R5A|St. Adolphe|Manitoba|49.7082|-96.9867
+R5G|Steinbach|Manitoba|49.5264|-96.6867
+R5H|Ste. Anne|Manitoba|49.6667|-96.648
+R6M|Morden|Manitoba|49.1861|-98.1204
+R6W|Winkler|Manitoba|49.1859|-97.9396
+R7A|Brandon Southeast|Manitoba|49.8431|-99.9452
+R7B|Brandon Southwest|Manitoba|49.8373|-99.9747
+R7C|Brandon North|Manitoba|49.8688|-99.9684
+R7N|Dauphin|Manitoba|51.1465|-100.0421
+R8A|Flin Flon|Manitoba|54.76|-101.8704
+R8N|Thompson|Manitoba|55.7428|-97.8779
+R9A|The Pas|Manitoba|53.8228|-101.2356
+E1A|Dieppe Moncton East|New Brunswick|46.0625|-64.7105
+E1B|Riverview|New Brunswick|46.0738|-64.755
+E1C|Moncton Central|New Brunswick|46.0888|-64.7723
+E1E|Moncton West|New Brunswick|46.0599|-64.844
+E1G|Moncton Northwest|New Brunswick|46.1117|-64.834
+E1H|Lakeville
+E1J|Coverdale|New Brunswick|45.9829|-64.8634
+E1N|Miramichi South|New Brunswick|47.0155|-65.5071
+E1V|Miramichi North|New Brunswick|47.0085|-65.5833
+E1W|Caraquet|New Brunswick|47.7624|-65.0324
+E1X|Tracadie-Sheila|New Brunswick|47.4883|-64.9189
+E2A|Bathurst|New Brunswick|47.6605|-65.6414
+E2E|Rothesay
+E2G|Quispamsis|New Brunswick|45.4397|-65.9392
+E2H|Saint John Northeast
+E2J|Saint John East|New Brunswick|45.286|-66.0421
+E2K|Saint John North|New Brunswick|45.2746|-66.0871
+E2L|Saint John Central|New Brunswick|45.2742|-66.0645
+E2M|Saint John West|New Brunswick|45.2758|-66.0845
+E2N|Saint John Lakewood|New Brunswick|45.3151|-65.9615
+E2P|Saint John Red Head|New Brunswick|45.2488|-66.0025
+E2R|Saint John Grandview|New Brunswick|45.2735|-66.0099
+E2S|Saint John Loch Lomond|New Brunswick|45.3679|-65.9564
+E2V|Oromocto|New Brunswick|45.8509|-66.467
+E3A|Fredericton North|New Brunswick|45.9784|-66.6905
+E3B|Fredericton South New Brunswick Provincial Government|New Brunswick|45.9535|-66.6704
+E3C|Fredericton Southwest
+E3E|Kingsclear|New Brunswick|45.8134|-66.932
+E3L|St. Stephen|New Brunswick|45.1728|-67.2946
+E3N|Campbellton|New Brunswick|48.0091|-66.6707
+E3V|Edmundston|New Brunswick|47.3614|-68.3218
+E3Y|Grand Falls Northeast|New Brunswick|47.052|-67.7368
+E3Z|Grand Falls Central|New Brunswick|47.0471|-67.7527
+E4A|Bathurst|New Brunswick|46.1655|-65.872
+E4B|Minto|New Brunswick|45.9393|-66.09
+E4C|Youngs Cove|New Brunswick|45.808|-65.9652
+E4E|Sussex|New Brunswick|45.7223|-65.5108
+E4G|Smiths Creek|New Brunswick|45.9078|-65.5334
+E4H|Hillsborough|New Brunswick|45.9078|-64.8245
+E4J|Salisbury|New Brunswick|45.9787|-64.9898
+E4K|Dorchester|New Brunswick|46.0477|-64.6202
+E4L|Sackville|New Brunswick|45.8919|-64.3699
+E4M|Bayfield|New Brunswick|46.0957|-63.9068
+E4N|Cap-Pelé|New Brunswick|46.2313|-64.2615
+E4P|Shediac|New Brunswick|46.2165|-64.5128
+E4R|Cocagne|New Brunswick|46.2324|-64.785
+E4S|Bouctouche|New Brunswick|46.4171|-64.9241
+E4T|Bass River|New Brunswick|46.3026|-64.9648
+E4V|Saint-Antoine|New Brunswick|46.3131|-64.5853
+E4W|Richibucto|New Brunswick|46.6493|-64.8842
+E4X|St-Louis-de-Kent|New Brunswick|46.735|-64.9744
+E4Y|Rogersville|New Brunswick|46.7333|-65.4489
+E4Z|Petitcodiac|New Brunswick|45.751|-65.048
+E5A|Moores Mills|New Brunswick|45.2441|-66.9929
+E5B|St. Andrews|New Brunswick|45.0732|-67.0428
+E5C|St. George|New Brunswick|45.2441|-66.9929
+E5E|Campobello Island|New Brunswick|44.887|-66.95
+E5G|Grand Manan Island|New Brunswick|44.6586|-66.8625
+E5H|Pennfield|New Brunswick|45.0766|-66.77
+E5J|Lepreau|New Brunswick|45.2116|-66.3491
+E5K|Grand Bay-Westfield|New Brunswick|45.331|-66.2095
+E5L|Fredericton Junction|New Brunswick|45.5281|-66.511
+E5M|Gagetown|New Brunswick|45.6287|-66.1751
+E5N|Hampton|New Brunswick|45.5263|-65.8155
+E5P|Apohaqui|New Brunswick|45.8489|-65.788
+E5R|St. Martins|New Brunswick|45.3849|-65.6331
+E5S|Kingston|New Brunswick|45.3571|-66.0858
+E5T|Norton|New Brunswick|45.6769|-65.884
+E5V|Deer Island|New Brunswick|45.0481|-66.9556
+E6A|Boiestown|New Brunswick|46.2767|-66.7384
+E6B|Stanley|New Brunswick|46.2324|-66.6683
+E6C|Durham Bridge|New Brunswick|45.9523|-66.6717
+E6E|Millville|New Brunswick|46.1296|-67.1953
+E6G|Nackawic|New Brunswick|45.9942|-67.2397
+E6H|Canterbury|New Brunswick|45.7207|-67.6516
+E6J|McAdam|New Brunswick|45.5927|-67.2973
+E6K|Harvey|New Brunswick|45.6975|-66.9557
+E6L|Burtts Corner|New Brunswick|46.12|-66.9477
+E7A|Baker Brook|New Brunswick|47.2542|-68.7211
+E7B|Saint-Jacques|New Brunswick|47.4785|-68.415
+E7C|Saint-Basile|New Brunswick|47.3516|-68.2208
+E7E|Saint-Leonard|New Brunswick|47.1717|-67.925
+E7G|Plaster Rock|New Brunswick|46.9097|-67.3971
+E7H|Perth-Andover|New Brunswick|46.7284|-67.7057
+E7J|Bath|New Brunswick|46.5082|-67.5871
+E7K|Centreville|New Brunswick|46.4328|-67.7105
+E7L|Florenceville|New Brunswick|46.4418|-67.63
+E7M|Woodstock|New Brunswick|46.1368|-67.5817
+E7N|Debec|New Brunswick|46.0089|-67.7236
+E7P|Hartland|New Brunswick|46.3709|-67.445
+E8A|Saint-Quentin|New Brunswick|47.5021|-67.3897
+E8B|Kedgwick|New Brunswick|47.6454|-67.3437
+E8C|Dalhousie|New Brunswick|48.0477|-66.4004
+E8E|Balmoral|New Brunswick|47.9879|-66.5145
+E8G|Belledune|New Brunswick|47.8741|-65.9102
+E8J|Petit-Rocher|New Brunswick|47.7634|-65.8276
+E8K|Beresford|New Brunswick|47.6736|-65.6795
+E8L|Allardville|New Brunswick|47.5887|-65.0979
+E8M|Saint-Isidore|New Brunswick|47.8022|-65.1862
+E8N|Grande-Anse|New Brunswick|47.8219|-65.0917
+E8P|Inkerman|New Brunswick|47.6656|-64.9543
+E8R|Paquetville|New Brunswick|47.7443|-64.7222
+E8S|Shippagan|New Brunswick|47.7456|-64.7143
+E8T|Lamèque|New Brunswick|47.792|-64.652
+E9A|Baie-Sainte-Anne|New Brunswick|46.7385|-65.8528
+E9B|Blackville|New Brunswick|46.7772|-65.8638
+E9C|Doaktown|New Brunswick|46.4477|-66.2584
+E9E|Red Bank|New Brunswick|46.9795|-65.6715
+E9G|Neguac|New Brunswick|47.2316|-65.1378
+E9H|Brantville|New Brunswick|47.3272|-65.011
+A0A|Southeastern Avalon Peninsula (Ferryland)|Newfoundland and Labrador|47.0073|-52.9589
+A0B|Western Avalon Peninsula (Argentia)|Newfoundland and Labrador|47.7609|-53.9834
+A0C|Bonavista Peninsula (Bonavista)|Newfoundland and Labrador|48.3464|-53.9646
+A0E|Burin Peninsula (Marystown)|Newfoundland and Labrador|47.3597|-54.8984
+A0G|Northeast Newfoundland (Lewisporte)|Newfoundland and Labrador|49.4536|-54.1045
+A0H|Central Newfoundland (Bishops Falls)|Newfoundland and Labrador|49.1301|-56.0845
+A0J|Northern Newfoundland (Springdale)|Newfoundland and Labrador|49.5959|-55.6739
+A0K|Northwest Newfoundland/Eastern Labrador (Mary's Harbour)|Newfoundland and Labrador|51.2327|-56.7969
+A0L|Western Newfoundland (Lark Harbour)|Newfoundland and Labrador|48.9934|-58.1009
+A0M|Southwestern Newfoundland (Channel-Port aux Basques)|Newfoundland and Labrador|48.1816|-58.858
+A0N|Port au Port Peninsula region (St. George's)|Newfoundland and Labrador|48.6113|-58.8736
+A0P|Central Labrador (Happy Valley-Goose Bay)|Newfoundland and Labrador|55.8889|-60.8805
+A0R|North/Western Labrador (Churchill Falls)|Newfoundland and Labrador|53.5329|-64.0145
+A1A|St. John's North|Newfoundland and Labrador|47.571|-52.6961
+A1B|St. John's Northwest Newfoundland & Labrador Provincial Government|Newfoundland and Labrador|47.5736|-52.7083
+A1C|St. John's North Central|Newfoundland and Labrador|47.5677|-52.7031
+A1E|St. John's Central|Newfoundland and Labrador|47.5507|-52.7147
+A1G|St. John's South|Newfoundland and Labrador|47.5295|-52.7417
+A1H|St. John's Southwest|Newfoundland and Labrador|47.4926|-52.8123
+A1K|Torbay|Newfoundland and Labrador|47.6542|-52.7367
+A1L|Paradise|Newfoundland and Labrador|47.5363|-52.8389
+A1M|Portugal Cove-St. Philips|Newfoundland and Labrador|47.5982|-52.8384
+A1N|Mount Pearl|Newfoundland and Labrador|47.5203|-52.7789
+A1S|Goulds|Newfoundland and Labrador|47.462|-52.7895
+A1V|Gander|Newfoundland and Labrador|48.9632|-54.6169
+A1W|Manuels|Newfoundland and Labrador|47.5329|-52.9132
+A1X|Conception Bay|Newfoundland and Labrador|47.5238|-52.9595
+A1Y|Carbonear|Newfoundland and Labrador|48.9268|-55.6613
+A2A|Grand Falls|Newfoundland and Labrador|48.9249|-55.6493
+A2B|Windsor|Newfoundland and Labrador|48.949|-55.6725
+A2H|Corner Brook|Newfoundland and Labrador|48.9654|-57.9225
+A2N|Stephenville|Newfoundland and Labrador|48.5656|-58.6
+A2V|Labrador City|Newfoundland and Labrador|52.9348|-66.9145
+A5A|Clarenville|Newfoundland and Labrador|48.1666|-53.9628
+A8A|Deer Lake|Newfoundland and Labrador|49.1778|-57.413
+B0C|North Victoria County (Dingwall)|Nova Scotia|46.2811|-60.2825
+B0E|West Cape Breton Island (Baddeck)|Nova Scotia|45.5148|-60.966
+B0H|Canso region (Havre Boucher)|Nova Scotia|45.6051|-61.6975
+B0J|Mainland east shore (Lunenburg)|Nova Scotia|45.1458|-61.8108
+B0K|Southern Northumberland Strait (Pictou)|Nova Scotia|45.5808|-62.1969
+B0L|Isthmus of Chignecto (River Hébert)|Nova Scotia|45.5802|-64.6646
+B0M|Cobequid Bay north shore (Springhill)|Nova Scotia|45.3317|-64.7596
+B0N|Hants County (Shubenacadie)|Nova Scotia|44.8794|-63.7254
+B0P|Kings County (Kingston)|Nova Scotia|45.0191|-64.8882
+B0R|West Lunenburg County (New Germany)|Nova Scotia|44.7424|-65.5111
+B0S|West Annapolis County (Middleton)|Nova Scotia|44.6491|-65.5472
+B0T|Queens County (Shelburne)|Nova Scotia|43.7029|-65.1119
+B0V|Digby Neck (Digby)|Nova Scotia|44.03|-65.9445
+B0W|Southwest Mainland (Weymouth)|Nova Scotia|43.8187|-65.9517
+B1A|Glace Bay|Nova Scotia|46.1794|-59.9477
+B1B|Port Morien|Nova Scotia|46.1365|-59.8717
+B1C|Louisbourg|Nova Scotia|46.2152|-60.2452
+B1E|Reserve Mines|Nova Scotia|46.2003|-60.0215
+B1G|Dominion|Nova Scotia|46.2063|-60.0255
+B1H|New Waterford|Nova Scotia|46.2295|-60.0941
+B1J|East Bay|Nova Scotia|45.8365|-60.4435
+B1K|Marion Bridge|Nova Scotia|46.1309|-60.1864
+B1L|Sydney Southwest|Nova Scotia|46.0911|-60.2462
+B1M|Sydney East|Nova Scotia|46.169|-60.1013
+B1N|Sydney North|Nova Scotia|46.167|-60.1943
+B1P|Sydney North Central|Nova Scotia|46.1337|-60.1939
+B1R|Sydney West|Nova Scotia|46.1224|-60.2236
+B1S|Sydney Central|Nova Scotia|46.1334|-60.1947
+B1T|Christmas Island|Nova Scotia|46.1122|-60.2372
+B1V|North Sydney North|Nova Scotia|46.2383|-60.2165
+B1W|Eskasoni|Nova Scotia|45.9245|-60.6449
+B1X|Big Bras d'Or|Nova Scotia|46.2667|-60.4333
+B1Y|Alder Point|Nova Scotia|46.1811|-60.5067
+B2A|North Sydney South Central|Nova Scotia|46.2397|-60.0998
+B2C|Iona|Nova Scotia|45.6218|-62.0004
+B2E|Loch Lomond|Nova Scotia|45.6272|-61.9977
+B2G|Antigonish|Nova Scotia|45.6243|-61.9996
+B2H|New Glasgow|Nova Scotia|45.5937|-62.6585
+B2J|Fourchu|Nova Scotia|45.3747|-63.2951
+B2N|Truro|Nova Scotia|45.3486|-63.3029
+B2R|Waverley|Nova Scotia|44.7431|-63.5144
+B2S|Lantz|Nova Scotia|44.9775|-63.4209
+B2T|Enfield|Nova Scotia|44.8488|-63.5999
+B2V|Dartmouth Morris Lake|Nova Scotia|44.669|-63.5019
+B2W|Dartmouth East Central|Nova Scotia|44.6449|-63.5433
+B2X|Dartmouth North Central|Nova Scotia|44.6829|-63.5442
+B2Y|Dartmouth South Central|Nova Scotia|44.7314|-63.6482
+B2Z|Dartmouth East|Nova Scotia|44.7104|-63.4759
+B3A|Dartmouth Southwest|Nova Scotia|44.6663|-63.5763
+B3B|Dartmouth Northwest|Nova Scotia|44.6886|-63.6076
+B3E|Porters Lake|Nova Scotia|44.7227|-63.3973
+B3G|Eastern Passage|Nova Scotia|44.6156|-63.4929
+B3H|Halifax Lower Harbour|Nova Scotia|44.6224|-63.5736
+B3J|Halifax Mid-Harbour Nova Scotia Provincial Government|Nova Scotia|44.641|-63.5682
+B3K|Halifax Upper Harbour|Nova Scotia|44.6514|-63.5818
+B3L|Halifax Central|Nova Scotia|44.6464|-63.5929
+B3M|Halifax Bedford Basin|Nova Scotia|44.6617|-63.6291
+B3N|Halifax South Central|Nova Scotia|44.6327|-63.6219
+B3P|Halifax North West Arm|Nova Scotia|44.6284|-63.596
+B3R|Halifax South|Nova Scotia|44.5829|-63.5671
+B3S|Halifax West|Nova Scotia|44.6408|-63.6723
+B3T|Lakeside|Nova Scotia|44.6404|-63.6888
+B3V|Harrietsfield|Nova Scotia|44.5682|-63.6177
+B3Z|Tantallon|Nova Scotia|44.5539|-63.8307
+B4A|Bedford Southeast|Nova Scotia|44.7089|-63.6676
+B4B|Bedford Northwest|Nova Scotia|44.7235|-63.6899
+B4C|Lower Sackville South|Nova Scotia|44.7765|-63.6854
+B4E|Lower Sackville West|Nova Scotia|44.7803|-63.6916
+B4G|Lower Sackville North|Nova Scotia|44.805|-63.667
+B4H|Amherst|Nova Scotia|45.8353|-64.2182
+B4N|Kentville|Nova Scotia|45.0899|-64.4963
+B4P|Wolfville|Nova Scotia|45.0917|-64.3599
+B4R|Coldbrook|Nova Scotia|44.3695|-64.5197
+B4V|Bridgewater|Nova Scotia|44.3683|-64.506
+B5A|Yarmouth|Nova Scotia|43.8245|-66.1207
+B9A|Port Hawkesbury|Nova Scotia|45.612|-61.3486
+X0E|Central Northwest Territories (Inuvik)|Northwest Territory|62.4043|-110.7417
+X0G|Southwestern Northwest Territories (Fort Liard)|Northwest Territory|60.25|-123.41
+X1A|Yellowknife|Northwest Territory|62.4725|-114.3417
+X0A|Outer Nunavut (Iqaluit)|Nunavut Territory|70.4643|-68.4789
+X0B|Central Nunavut (Cambridge Bay)|Nunavut Territory|67.6963|-107.9068
+X0C|Inner Nunavut (Rankin Inlet)|Nunavut Territory|62.2237|-92.5904
+K0A|National Capital Region (Almonte)|Ontario|45.1953|-76.1496
+K0B|Prescott and Russell United Counties (Alfred)|Ontario|45.4131|-74.9148
+K0C|Stormont
+K0E|South Leeds and Grenville United Counties (Prescott)|Ontario|44.6478|-75.7656
+K0G|Rideau Lakes area (Kemptville)|Ontario|45.0113|-75.6459
+K0H|Frontenac County
+K0J|Renfrew County and Lanark Highlands Township (Deep River)|Ontario|45.3985|-78.0836
+K0K|Quinte Shores
+K0L|Peterborough County and North Hastings County (Lakefield)|Ontario|44.8324|-77.9302
+K0M|Kawartha lakes and Haliburton County (Bobcaygeon)|Ontario|44.438|-78.6828
+K1A|Government of Canada Ottawa and Gatineau offices|Ontario|45.4207|-75.7023
+K1B|Gloucester (Blackburn Hamlet / Pine View)|Ontario|45.4325|-75.5624
+K1C|Gloucester (West Orleans)|Ontario|45.4805|-75.5237
+K1E|Orleans (Queenswood)|Ontario|45.4882|-75.5199
+K1G|Ottawa (Riverview / Hawthorne)|Ontario|45.4118|-75.6304
+K1H|Ottawa (Alta Vista)|Ontario|45.3938|-75.6639
+K1J|Gloucester (Beacon Hill / Cyrville)|Ontario|45.422|-75.6303
+K1K|Ottawa (Overbrook)|Ontario|45.4354|-75.6475
+K1L|Ottawa (Vanier)|Ontario|45.44|-75.6524
+K1M|Ottawa (Rockcliffe Park / New Edinburgh)|Ontario|45.4461|-75.6744
+K1N|Ottawa (Lower Town / Sandy Hill / University of Ottawa)|Ontario|45.3176|-75.895
+K1P|Ottawa (Parliament Hill)|Ontario|45.423|-75.702
+K1R|Ottawa (West Downtown area)|Ontario|45.4|-75.7235
+K1S|Ottawa (The Glebe / Ottawa South / Ottawa East)|Ontario|45.4127|-75.6742
+K1T|Gloucester (Blossom Park / Hunt Club East / Leitrim)|Ontario|45.352|-75.6421
+K1V|Ottawa (Riverside Park / Hunt Club West / Riverside South / YOW)|Ontario|45.3523|-75.6512
+K1W|Gloucester (South Orleans)|Ontario|45.436|-75.5471
+K1X|Gloucester South|Ontario|45.2884|-75.5992
+K1Y|Ottawa West|Ontario|45.399|-75.7304
+K1Z|Ottawa (Westboro)|Ontario|45.3956|-75.7462
+K2A|Ottawa (Highland Park / Carlingwood)|Ontario|45.3778|-75.7632
+K2B|Ottawa (Britannia / Pinecrest)|Ontario|45.3679|-75.7888
+K2C|Ottawa (Queensway / Copeland / Carlington / Carleton Heights)|Ontario|45.3594|-75.7523
+K2E|Nepean East|Ontario|45.3353|-75.7209
+K2G|Nepean (Davidson Heights)|Ontario|45.3286|-75.7703
+K2H|Nepean (Bells Corners)|Ontario|45.3155|-75.837
+K2J|Nepean (Barrhaven)|Ontario|45.2882|-75.7566
+K2K|Kanata (Beaverbrook / South March)|Ontario|45.3339|-75.9098
+K2L|Kanata (Katimavik-Hazeldean / Glen Cairn)|Ontario|45.3125|-75.8838
+K2M|Kanata (Bridlewood)|Ontario|45.2884|-75.8648
+K2P|Ottawa (Centre Town)|Ontario|45.4129|-75.6901
+K2R|Nepean (Fallowfield Village / Cedarhill Estates / Orchard Estates)|Ontario|45.2776|-75.7902
+K2S|Stittsville|Ontario|45.2573|-75.9153
+K2T|Kanata (Marchwood)|Ontario|45.3121|-75.9217
+K2V|Kanata (Terry Fox / Palladium)|Ontario|45.3018|-75.9081
+K2W|Kanata (North March)|Ontario|45.3564|-75.9445
+K4A|Orleans (Fallingbrook)|Ontario|45.4769|-75.4835
+K4B|Cumberland Township|Ontario|45.4251|-75.4288
+K4C|Cumberland|Ontario|45.5177|-75.4108
+K4K|Rockland|Ontario|45.5415|-75.3062
+K4M|Manotick|Ontario|45.2289|-75.6817
+K4P|Greely|Ontario|45.258|-75.5762
+K4R|Russell|Ontario|45.2573|-75.3675
+K6A|Hawkesbury|Ontario|45.6101|-74.6085
+K6H|Cornwall East|Ontario|45.0186|-74.7129
+K6J|Cornwall West|Ontario|45.0149|-74.7279
+K6K|Cornwall North|Ontario|45.0607|-74.7542
+K6T|Elizabethtown|Ontario|44.618|-75.6895
+K6V|Brockville|Ontario|44.5906|-75.6808
+K7A|Smiths Falls|Ontario|44.8995|-76.021
+K7C|Carleton Place|Ontario|45.135|-76.1313
+K7G|Gananoque|Ontario|44.3319|-76.1471
+K7H|Perth|Ontario|44.902|-76.2457
+K7K|Kingston (SW Pittsburgh Township)|Ontario|44.2322|-76.4799
+K7L|Kingston (Downtown)|Ontario|44.231|-76.4791
+K7M|Kingston (Reddendale / Cataraqui / Collins Bay)|Ontario|44.2274|-76.5134
+K7N|Amherstview|Ontario|44.2255|-76.629
+K7P|Kingston (Westbrook / Cataraqui Woods / Cedarwood)|Ontario|44.2507|-76.5828
+K7R|Napanee|Ontario|44.2538|-76.943
+K7S|Arnprior|Ontario|45.4238|-76.3624
+K7V|Renfrew|Ontario|45.4779|-76.6731
+K8A|Pembroke Central and northern subdivisions|Ontario|45.8173|-77.1174
+K8B|Pembroke (Pleasant View / Fairview)|Ontario|45.815|-77.1107
+K8H|Petawawa|Ontario|45.9151|-77.2754
+K8N|Belleville East|Ontario|44.1607|-77.369
+K8P|Belleville West|Ontario|44.1605|-77.3846
+K8R|Belleville (SE Sidney Township / Avondale)|Ontario|44.1312|-77.4521
+K8V|Trenton|Ontario|44.1106|-77.5569
+K9A|Cobourg|Ontario|43.9851|-78.1621
+K9H|Peterborough North|Ontario|44.299|-78.3145
+K9J|Peterborough South|Ontario|44.2763|-78.313
+K9K|Peterborough (Fairbairn Meadows / Jackson Heights)|Ontario|44.279|-78.3659
+K9L|Peterborough (Terra View Heights / Woodland Acres / Donwood)|Ontario|44.3238|-78.303
+K9V|Lindsay|Ontario|44.3512|-78.7192
+L0A|West Northumberland County (Millbrook)|Ontario|44.1836|-78.5563
+L0B|East Durham Regional Municipality (Orono)|Ontario|44.0286|-79.0015
+L0C|West Durham Regional Municipality (Sunderland)|Ontario|44.0371|-79.1964
+L0E|Lake Simcoe Southeast Shore (Sutton West)|Ontario|44.2406|-79.357
+L0G|Ontario Centre (Queensville)|Ontario|44.1595|-79.8733
+L0H|Whitby Region (Gormley)|Ontario|43.9282|-79.1201
+L0J|North Peel Regional Municipality (Kleinburg)|Ontario|43.7788|-79.4991
+L0K|Lake Simcoe North Shore (Coldwater)|Ontario|44.6072|-79.6291
+L0L|Lake Simcoe West Shore (Oro)|Ontario|44.1535|-79.8683
+L0M|Georgian Bay South Shore (Angus)|Ontario|44.1476|-79.872
+L0N|Dufferin County (Shelburne)|Ontario|43.8582|-80.0696
+L0P|Halton Regional Municipality (Campbellville)|Ontario|43.7882|-79.6754
+L0R|East Haldimand County (Waterdown)|Ontario|43.1661|-80.0702
+L0S|Niagara Regional Municipality (Fonthill)|Ontario|43.0796|-79.199
+L1A|Port Hope|Ontario|43.9427|-78.2944
+L1B|Bowmanville East|Ontario|43.8966|-78.6309
+L1C|Bowmanville West|Ontario|43.9014|-78.6755
+L1E|Courtice|Ontario|43.914|-78.6925
+L1G|Oshawa Central|Ontario|43.898|-78.8656
+L1H|Oshawa Southeast|Ontario|43.8973|-78.8641
+L1J|Oshawa Southwest|Ontario|43.8587|-78.8341
+L1K|Oshawa East|Ontario|43.9091|-78.8088
+L1L|Oshawa North|Ontario|43.9527|-78.8795
+L1M|Whitby North|Ontario|43.9561|-78.9556
+L1N|Whitby Southeast|Ontario|43.8581|-78.9319
+L1P|Whitby Southwest|Ontario|43.8744|-78.9638
+L1R|Whitby Central|Ontario|43.9018|-78.9347
+L1S|Ajax Southwest|Ontario|43.8265|-78.9991
+L1T|Ajax Northwest|Ontario|43.8603|-79.0434
+L1V|Pickering Southwest|Ontario|43.8087|-79.1307
+L1W|Pickering South|Ontario|43.8125|-79.0827
+L1X|Pickering Central|Ontario|43.8449|-79.0996
+L1Y|Pickering North|Ontario|43.9903|-79.1004
+L1Z|Ajax East|Ontario|43.8627|-79.0136
+L2A|Fort Erie|Ontario|42.8845|-78.9398
+L2E|Niagara Falls Central|Ontario|43.0939|-79.0699
+L2G|Niagara Falls Southeast|Ontario|43.0963|-79.074
+L2H|Niagara Falls West|Ontario|43.1148|-79.1238
+L2J|Niagara Falls North|Ontario|43.1155|-79.0916
+L2M|St. Catharines Northeast|Ontario|43.2237|-79.2191
+L2N|St. Catharines Northwest|Ontario|43.1751|-79.2389
+L2P|St. Catharines East|Ontario|43.1418|-79.2133
+L2R|St. Catharines Central|Ontario|43.1719|-79.227
+L2S|St. Catharines Southwest|Ontario|43.1275|-79.2631
+L2T|St. Catharines South|Ontario|43.1334|-79.1989
+L2V|St. Catharines Southeast|Ontario|43.1017|-79.1997
+L2W|St. Catharines West|Ontario|43.1743|-79.2744
+L3B|Welland East|Ontario|42.9859|-79.2232
+L3C|Welland West|Ontario|42.9989|-79.2466
+L3K|Port Colborne|Ontario|42.8754|-79.237
+L3M|Grimsby|Ontario|43.2005|-79.6292
+L3P|Markham Central|Ontario|43.8605|-79.3279
+L3R|Markham Outer Southwest|Ontario|43.86|-79.3605
+L3S|Markham Southeast|Ontario|43.831|-79.2768
