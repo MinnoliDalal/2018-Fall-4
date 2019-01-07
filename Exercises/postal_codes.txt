@@ -767,3 +767,434 @@ L3M|Grimsby|Ontario|43.2005|-79.6292
 L3P|Markham Central|Ontario|43.8605|-79.3279
 L3R|Markham Outer Southwest|Ontario|43.86|-79.3605
 L3S|Markham Southeast|Ontario|43.831|-79.2768
+L3T|Thornhill East|Ontario|43.7984|-79.4186
+L3V|Orillia|Ontario|44.6039|-79.4126
+L3X|Newmarket Southwest|Ontario|44.0464|-79.4874
+L3Y|Newmarket Northeast|Ontario|44.0414|-79.4534
+L3Z|Bradford|Ontario|44.1208|-79.5656
+L4A|Stouffville|Ontario|43.9707|-79.2503
+L4B|Richmond Hill Southeast|Ontario|43.8417|-79.4011
+L4C|Richmond Hill Southwest|Ontario|43.8759|-79.4381
+L4E|Richmond Hill North|Ontario|43.9423|-79.4595
+L4G|Aurora|Ontario|43.9909|-79.4639
+L4H|Woodbridge North|Ontario|43.8084|-79.6089
+L4J|Thornhill West|Ontario|43.7964|-79.4278
+L4K|Concord|Ontario|43.7848|-79.4811
+L4L|Woodbridge South|Ontario|43.7886|-79.5919
+L4M|Barrie North|Ontario|44.3885|-79.6886
+L4N|Barrie South|Ontario|44.3891|-79.6901
+L4P|Keswick|Ontario|44.2421|-79.4818
+L4R|Midland|Ontario|44.7542|-79.9005
+L4S|Richmond Hill Central|Ontario|43.8975|-79.4415
+L4T|Mississauga (Malton)|Ontario|43.6951|-79.6525
+L4V|Mississauga (Wildwood)|Ontario|43.6879|-79.6072
+L4W|Mississauga (Matheson / East Rathwood)|Ontario|43.6272|-79.6222
+L4X|Mississauga (East Applewood / East Dixie / NE Lakeview)|Ontario|43.5996|-79.5664
+L4Y|Mississauga (West Applewood / West Dixie / NW Lakeview)|Ontario|43.5854|-79.583
+L4Z|Mississauga (West Rathwood / East Hurontario / SE Gateway)|Ontario|43.6092|-79.6201
+L5A|Mississauga (Mississauga Valleys / East Cooksville)|Ontario|43.5701|-79.5985
+L5B|Mississauga (West Cooksville / Fairview / City Centre / East Creditview)|Ontario|43.5665|-79.6035
+L5C|Mississauga (West Creditview / Mavis / Erindale)|Ontario|43.5591|-79.6186
+L5E|Mississauga (Central Lakeview)|Ontario|43.571|-79.5668
+L5G|Mississauga (SW Lakeview / Mineola / East Port Credit)|Ontario|43.5581|-79.5738
+L5H|Mississauga (West Port Credit / Lorne Park / East Sheridan)|Ontario|43.5472|-79.585
+L5J|Mississauga (Clarkson / Southdown)|Ontario|43.5146|-79.6063
+L5K|Mississauga (West Sheridan)|Ontario|43.5319|-79.6403
+L5L|Mississauga (Erin Mills / Western Business Park)|Ontario|43.5372|-79.6667
+L5M|Mississauga (Churchill Meadows / Central Erin Mills / South Streetsville)|Ontario|43.5747|-79.7278
+L5N|Mississauga (Lisgar / Meadowvale)|Ontario|43.5892|-79.7239
+L5P|Mississauga (YYZ)|Ontario|43.6904|-79.6238
+L5R|Mississauga (West Hurontario / SW Gateway)|Ontario|43.5974|-79.6402
+L5S|Mississauga (Cardiff / NE Gateway)|Ontario|43.6975|-79.6615
+L5T|Mississauga (Courtney Park / East Gateway)|Ontario|43.6578|-79.6607
+L5V|Mississauga (East Credit)|Ontario|43.6097|-79.704
+L5W|Mississauga (Meadowvale Village / West Gateway)|Ontario|43.6261|-79.729
+L6A|Maple|Ontario|43.857|-79.514
+L6B|Markham East|Ontario|43.8845|-79.2339
+L6C|Markham Northwest|Ontario|43.8842|-79.3359
+L6E|Markham Northeast|Ontario|43.8927|-79.2641
+L6G|Markham Inner Southwest|Ontario|43.8478|-79.3447
+L6H|Oakville North|Ontario|43.4543|-79.6921
+L6J|Oakville Northeast|Ontario|43.4427|-79.6664
+L6K|Oakville East|Ontario|43.4401|-79.669
+L6L|Oakville South|Ontario|43.4037|-79.6934
+L6M|Oakville West|Ontario|43.4453|-79.7095
+L6P|Brampton North|Ontario|43.7794|-79.7284
+L6R|Brampton Northwest|Ontario|43.7494|-79.7511
+L6S|Brampton North Central|Ontario|43.7153|-79.7321
+L6T|Brampton East|Ontario|43.6892|-79.7079
+L6V|Brampton Central|Ontario|43.7074|-79.7853
+L6W|Brampton Southeast|Ontario|43.6746|-79.724
+L6X|Brampton Southwest|Ontario|43.6858|-79.7602
+L6Y|Brampton South|Ontario|43.6699|-79.7444
+L6Z|Brampton West Central|Ontario|43.7304|-79.8042
+L7A|Brampton West|Ontario|43.7023|-79.7909
+L7B|King City|Ontario|43.9327|-79.5104
+L7C|Caledon|Ontario|43.7467|-79.8304
+L7E|Bolton|Ontario|43.8628|-79.7147
+L7G|Georgetown|Ontario|43.644|-79.8787
+L7J|Acton|Ontario|43.634|-80.0491
+L7L|Burlington Northeast|Ontario|43.3479|-79.7593
+L7M|Burlington North|Ontario|43.3585|-79.8093
+L7N|Burlington East|Ontario|43.3336|-79.7771
+L7P|Burlington West|Ontario|43.3503|-79.8117
+L7R|Burlington Southeast|Ontario|43.3248|-79.7957
+L7S|Burlington South|Ontario|43.304|-79.7991
+L7T|Burlington Southwest|Ontario|43.3018|-79.8497
+L8E|Hamilton (Confederation Park / Nashdale / East Kentley / Riverdale / Lakely / Grayside / North Stoney Creek)|Ontario|43.2318|-79.7696
+L8G|Hamilton (Greenford / North Gershome / West Stoney Creek)|Ontario|43.2298|-79.7722
+L8H|Hamilton (West Kentley / McQuesten / Parkview / Hamilton Beach / East Industrial Sector / Normanhurst / Homeside / East Crown Point)|Ontario|43.2369|-79.7991
+L8J|Hamilton (East Albion Falls / South Stoney Creek)|Ontario|43.1907|-79.7878
+L8K|Hamilton (East Delta / Bartonville / Glenview / Rosedale / Lower King's Forest / Red Hill / Corman / Vincent / South Gershome)|Ontario|43.2424|-79.8192
+L8L|Hamilton (West Industrial Sector / West Crown Point / North Stipley / North Gibson / Landsdale / Keith / North End / Beasley)|Ontario|43.2645|-79.8664
+L8M|Hamilton (West Delta / Blakeley / South Stipley / South Gibson / St. Clair)|Ontario|43.2522|-79.8489
+L8N|Hamilton (Stinson / Corktown)|Ontario|43.2566|-79.8683
+L8P|Hamilton (Durand / Kirkendall / Chedoke Park)|Ontario|43.257|-79.8697
+L8R|Hamilton (Central / Strathcona / South Dundurn)|Ontario|43.2574|-79.8676
+L8S|Hamilton (Westdale / Cootes Paradise / Ainslie Wood)|Ontario|43.2604|-79.8961
+L8T|Hamilton (Sherwood / Huntington / Upper King's Forest / Lisgar / Berrisfield / Hampton Heights / Sunninghill)|Ontario|43.2365|-79.8338
+L8V|Hamilton (Raleigh / Macassa / Lawfield / Thorner / Burkholme / Eastmount)|Ontario|43.2428|-79.8524
+L8W|Hamilton (West Albion Falls / Hannon / Rymal / Trenholme / Quinndale / Templemead / Broughton / Eleanor / Randall / Rushdale / Butler / East Chappel)|Ontario|43.2141|-79.8626
+L9A|Hamilton (Crerar / Bruleville / Hill Park / Inch Park / Centremount / Balfour / Greeningdon / Jerome)|Ontario|43.241|-79.8452
+L9B|Hamilton (Barnstown / West Chappel / Allison / Ryckmans / Mewburn / Sheldon / Falkirk / Carpenter / Kennedy / Southwest Outskirts)|Ontario|43.2116|-79.8915
+L9C|Hamilton (Southam / Bonnington / Yeoville / Kernighan / Gourley / Rolston / Buchanan / Mohawk / Westcliffe / Gilbert / Gilkson / Gurnett / Fessenden / Mountview)|Ontario|43.2432|-79.876
+L9G|Ancaster West|Ontario|43.2199|-79.9874
+L9H|Dundas|Ontario|43.2638|-79.9505
+L9K|Ancaster East|Ontario|43.2359|-79.9403
+L9L|Port Perry|Ontario|44.0905|-78.9479
+L9M|Penetanguishene|Ontario|44.7672|-79.9385
+L9N|Holland Landing|Ontario|44.1315|-79.4823
+L9P|Uxbridge|Ontario|44.1065|-79.1427
+L9R|Alliston|Ontario|44.1513|-79.8744
+L9S|Innisfil|Ontario|44.2871|-79.6703
+L9T|Milton|Ontario|43.5034|-79.8773
+L9V|Orangeville North|Ontario|43.9471|-80.1091
+L9W|Orangeville South|Ontario|43.9258|-80.1056
+L9Y|Collingwood|Ontario|44.5029|-80.2176
+L9Z|Wasaga Beach|Ontario|44.5208|-80.0162
+M1B|Scarborough (Malvern / Rouge River)|Ontario|43.7976|-79.227
+M1C|Scarborough (Rouge Hill / Port Union / Highland Creek)|Ontario|43.7882|-79.1911
+M1E|Scarborough (Guildwood / Morningside / Ellesmere)|Ontario|43.7385|-79.2021
+M1G|Scarborough (Woburn)|Ontario|43.7563|-79.2224
+M1H|Scarborough (Cedarbrae)|Ontario|43.7563|-79.2417
+M1J|Scarborough (Eglinton)|Ontario|43.7315|-79.246
+M1K|Scarborough (Kennedy Park / Ionview / East Birchmount Park)|Ontario|43.7025|-79.2656
+M1L|Scarborough (The Golden Mile / Clairlea / Oakridge / Birchmount Park East)|Ontario|43.6905|-79.2857
+M1M|Scarborough (Cliffside / Cliffcrest / Scarborough Village West)|Ontario|43.7041|-79.2446
+M1N|Scarborough (Birch Cliff / Cliffside West)|Ontario|43.6748|-79.2764
+M1P|Scarborough (Dorset Park / Wexford Heights / Scarborough Town Centre)|Ontario|43.7422|-79.2818
+M1R|Scarborough (Wexford / Maryvale)|Ontario|43.7293|-79.3038
+M1S|Scarborough (Agincourt)|Ontario|43.7807|-79.2855
+M1T|Scarborough (Clarks Corners / Tam O'Shanter / Sullivan)|Ontario|43.7719|-79.3213
+M1V|Scarborough (Milliken / Agincourt North / Steeles East / L'Amoreaux East)|Ontario|43.813|-79.2781
+M1W|Scarborough (Steeles West / L'Amoreaux West)|Ontario|43.7822|-79.3261
+M1X|Scarborough (Upper Rouge)|Ontario|43.8275|-79.2437
+M2H|North York (Hillcrest Village)|Ontario|43.7895|-79.3735
+M2J|North York (Fairview / Henry Farm / Oriole)|Ontario|43.7685|-79.3584
+M2K|North York (Bayview Village)|Ontario|43.7657|-79.3835
+M2L|North York (York Mills / Silver Hills)|Ontario|43.7352|-79.3818
+M2M|Willowdale East (Newtonbrook)|Ontario|43.784|-79.4263
+M2N|Willowdale South|Ontario|43.7521|-79.4202
+M2P|North York (York Mills West)|Ontario|43.7393|-79.4005
+M2R|Willowdale West|Ontario|43.7648|-79.4325
+M3A|North York (York Heights / Victoria Village / Parkway East)|Ontario|43.7358|-79.328
+M3B|Don Mills North|Ontario|43.7363|-79.3498
+M3C|Don Mills South (Flemingdon Park)|Ontario|43.7122|-79.3237
+M3H|North York (Armour Heights / Wilson Heights / Downsview North)|Ontario|43.7387|-79.4337
+M3J|North York (Northwood Park / York University)|Ontario|43.7496|-79.4886
+M3K|Downsview East (CFB Toronto)|Ontario|43.7271|-79.4666
+M3L|Downsview West|Ontario|43.7183|-79.5119
+M3M|Downsview Central|Ontario|43.72|-79.5085
+M3N|North York (Jane and Finch)|Ontario|43.7387|-79.5166
+M4A|North York (Sweeney Park / Wigmore Park)|Ontario|43.7159|-79.3037
+M4B|East York (Parkview Hill / Woodbine Gardens)|Ontario|43.6979|-79.2986
+M4C|East York (Woodbine Heights)|Ontario|43.68|-79.3218
+M4E|East Toronto (The Beaches)|Ontario|43.6675|-79.296
+M4G|East York (Leaside)|Ontario|43.6918|-79.3708
+M4H|East York (Thorncliffe Park)|Ontario|43.7018|-79.3578
+M4J|East Toronto (The Danforth East)|Ontario|43.6713|-79.3412
+M4K|East Toronto (The Danforth West / Riverdale)|Ontario|43.6668|-79.3501
+M4L|East Toronto (India Bazaar / The Beaches West)|Ontario|43.662|-79.3281
+M4M|East Toronto (Studio District)|Ontario|43.6505|-79.3369
+M4N|Central Toronto (Lawrence Park East)|Ontario|43.7168|-79.3998
+M4P|Central Toronto (Davisville North)|Ontario|43.7066|-79.398
+M4R|Central Toronto (North Toronto West)|Ontario|43.7066|-79.3996
+M4S|Central Toronto (Davisville)|Ontario|43.6964|-79.3953
+M4T|Central Toronto (Moore Park / Summerhill East)|Ontario|43.6825|-79.3897
+M4V|Central Toronto (Summerhill West / Rathnelly / South Hill / Forest Hill SE / Deer Park)|Ontario|43.6778|-79.3992
+M4W|Downtown Toronto (Rosedale)|Ontario|43.6699|-79.3887
+M4X|Downtown Toronto (St. James Town / Cabbagetown)|Ontario|43.6647|-79.3695
+M4Y|Downtown Toronto (Church and Wellesley)|Ontario|43.6618|-79.3847
+M5A|Downtown Toronto (Regent Park / Port of Toronto)|Ontario|43.6369|-79.3505
+M5B|Downtown Toronto (Ryerson)|Ontario|43.6543|-79.3796
+M5C|Downtown Toronto (St. James Park)|Ontario|43.687|-79.5318
+M5E|Downtown Toronto (Berczy Park)|Ontario|43.639|-79.4499
+M5G|Downtown Toronto (Central Bay Street)|Ontario|43.6519|-79.3874
+M5H|Downtown Toronto (Richmond / Adelaide / King)|Ontario|43.649|-79.3784
+M5J|Downtown Toronto (Harbourfront East / Union Station / Toronto Island)|Ontario|43.6441|-79.3801
+M5K|Downtown Toronto (Toronto Dominion Centre / Design Exchange)|Ontario|43.6469|-79.3823
+M5L|Downtown Toronto (Commerce Court / Victoria Hotel)|Ontario|43.6492|-79.3823
+M5M|North York (Bedford Park / Lawrence Park West / Lawrence Manor East)|Ontario|43.7248|-79.4033
+M5N|Central Toronto (Roselawn)|Ontario|43.7043|-79.4093
+M5P|Central Toronto (Forest Hill North & West)|Ontario|43.6981|-79.3987
+M5R|Central Toronto (The Annex / North Midtown / Yorkville)|Ontario|43.6705|-79.3901
+M5S|Downtown Toronto (University of Toronto / Harbord)|Ontario|43.6619|-79.3952
+M5T|Downtown Toronto (Kensington Market / Chinatown / Grange Park)|Ontario|43.6497|-79.3952
+M5V|Downtown Toronto (CN Tower / King and Spadina / Railway Lands / Harbourfront West / Bathurst Quay / South Niagara / YTZ)|Ontario|43.6525|-79.3686
+M5W|Downtown Toronto Stn A PO Boxes 25 The Esplanade (Enclave of M5E)|Ontario|43.6437|-79.3787
+M5X|Downtown Toronto (Underground city)|Ontario|43.6492|-79.3823
+M6A|North York (Lawrence Manor / Lawrence Heights)|Ontario|43.7193|-79.43
+M6B|North York (Glencairn)|Ontario|43.7054|-79.4272
+M6C|York (Cedarvale)|Ontario|43.683|-79.4184
+M6E|York (Fairbank / Oakwood)|Ontario|43.6797|-79.4358
+M6G|Downtown Toronto (Christie)|Ontario|43.6565|-79.4079
+M6H|West Toronto (Dufferin / Dovercourt Village)|Ontario|43.6536|-79.4258
+M6J|West Toronto (Rua Aþores / Trinity)|Ontario|43.644|-79.4062
+M6K|West Toronto (Brockton / Parkdale Village / Exhibition Place)|Ontario|43.6392|-79.4058
+M6L|North York (North Park / Maple Leaf Park / Upwood Park)|Ontario|43.7103|-79.4714
+M6M|York (Del Ray / Keelsdale / Mount Dennis / Silverthorne)|Ontario|43.6815|-79.4668
+M6N|York (Runnymede / The Junction North)|Ontario|43.668|-79.4515
+M6P|West Toronto (High Park / The Junction South)|Ontario|43.6558|-79.4663
+M6R|West Toronto (Parkdale / Roncesvalles Village)|Ontario|43.6403|-79.4374
+M6S|West Toronto (Bloor West Village / Swansea)|Ontario|43.6358|-79.4668
+M7A|Queen's Park Ontario Provincial Government|Ontario|43.6641|-79.3889
+M7Y|East Toronto Business Reply Mail Processing Centre 969 Eastern (Enclave of M4L)|Ontario|43.7804|-79.2505
+M8V|Etobicoke (New Toronto / Mimico South / Humber Bay Shores)|Ontario|43.6305|-79.4762
+M8W|Etobicoke (Alderwood / Long Branch)|Ontario|43.5908|-79.5218
+M8X|Etobicoke (The Kingsway / Montgomery Road / Old Mill North)|Ontario|43.649|-79.4977
+M8Y|Etobicoke (Old Mill South / King's Mill Park / Sunnylea / Humber Bay / Mimico NE / The Queensway East / Royal York South East / Kingsway Park South East)|Ontario|43.6181|-79.4967
+M8Z|Etobicoke (Mimico NW / The Queensway West / South of Bloor / Kingsway Park South West / Royal York South West)|Ontario|43.6053|-79.5201
+M9A|Etobicoke (Islington Avenue)|Ontario|43.6434|-79.5297
+M9B|Etobicoke (West Deane Park / Princess Gardens / Martin Grove / Islington / Cloverdale)|Ontario|43.6383|-79.5356
+M9C|Etobicoke (Eringate / Bloordale Gardens / Old Burnhamthorpe / Markland Woods)|Ontario|43.6088|-79.5574
+M9L|North York (Humber Summit)|Ontario|43.7494|-79.5614
+M9M|North York (Humberlea / Emery)|Ontario|43.7182|-79.5216
+M9N|Weston|Ontario|43.7087|-79.5287
+M9P|Etobicoke (Westmount)|Ontario|43.6814|-79.5367
+M9R|Etobicoke (Kingsview Village / St. Phillips / Martin Grove Gardens / Richview Gardens)|Ontario|43.6808|-79.5438
+M9V|Etobicoke (South Steeles / Silverstone / Humbergate / Jamestown / Mount Olive / Beaumond Heights / Thistletown / Albion Gardens)|Ontario|43.73|-79.5542
+M9W|Etobicoke Northwest (Clairville / Humberwood / Woodbine Downs / West Humber / Kipling Heights / Rexdale / Elms / Tandridge / Old Rexdale)|Ontario|43.6772|-79.5894
+N0A|West Haldimand (Port Dover)|Ontario|42.9466|-79.8509
+N0B|Wellington (Elora)|Ontario|43.7722|-80.6586
+N0C|Georgian Bay Southwest Shore (Dundalk)|Ontario|44.2999|-80.4804
+N0E|Brant and Norfolk (Waterford)|Ontario|43.0986|-80.5633
+N0G|Huron (Wingham)|Ontario|43.8567|-81.4023
+N0H|Bruce Peninsula (Wiarton)|Ontario|44.3483|-80.914
+N0J|Oxford (Norwich)|Ontario|43.221|-80.5613
+N0K|Perth (Mitchell)|Ontario|43.5838|-81.2351
+N0L|Elgin (Dorchester)|Ontario|42.8188|-81.6437
+N0M|Middlesex (Clinton)|Ontario|43.5651|-81.6986
+N0N|Lambton (Forest)|Ontario|42.7967|-81.7938
+N0P|Kent (Blenheim)|Ontario|42.5323|-81.7991
+N0R|Essex (Belle River)|Ontario|42.2932|-82.7075
+N1A|Dunnville|Ontario|42.9132|-79.6101
+N1C|Guelph South|Ontario|43.5036|-80.2394
+N1E|Guelph North|Ontario|43.5749|-80.2688
+N1G|Guelph Central|Ontario|43.5325|-80.2531
+N1H|Guelph Northwest|Ontario|43.555|-80.2868
+N1K|Guelph West|Ontario|43.5156|-80.2827
+N1L|Guelph East|Ontario|43.5225|-80.2095
+N1M|Fergus|Ontario|43.7157|-80.387
+N1P|Cambridge South|Ontario|43.3372|-80.3021
+N1R|Cambridge Central|Ontario|43.3831|-80.3191
+N1S|Cambridge Southwest|Ontario|43.3742|-80.3457
+N1T|Cambridge East|Ontario|43.4067|-80.3037
+N2A|Kitchener East|Ontario|43.4353|-80.4527
+N2B|Kitchener Northeast|Ontario|43.448|-80.4589
+N2C|Kitchener South Central|Ontario|43.4346|-80.4532
+N2E|Kitchener Southwest|Ontario|43.4236|-80.48
+N2G|Kitchener Central|Ontario|43.4497|-80.4893
+N2H|Kitchener North Central|Ontario|43.4487|-80.4849
+N2J|Waterloo Southeast|Ontario|43.4613|-80.507
+N2K|Kitchener North|Ontario|43.4801|-80.4801
+N2L|Waterloo South|Ontario|43.4529|-80.5281
+N2M|Kitchener Northwest|Ontario|43.4422|-80.4968
+N2N|Kitchener West|Ontario|43.4241|-80.5214
+N2P|Kitchener Southeast|Ontario|43.3938|-80.4443
+N2R|Kitchener South|Ontario|43.3965|-80.4575
+N2T|Waterloo Southwest|Ontario|43.4511|-80.5572
+N2V|Waterloo Northwest|Ontario|43.5036|-80.5413
+N2Z|Kincardine|Ontario|44.1821|-81.6373
+N3A|Baden|Ontario|43.4161|-80.688
+N3B|Elmira|Ontario|43.5852|-80.5662
+N3C|Cambridge Northeast|Ontario|43.4317|-80.3112
+N3E|Cambridge Northwest|Ontario|43.4244|-80.3364
+N3H|Cambridge West|Ontario|43.4061|-80.3503
+N3L|Paris|Ontario|43.1834|-80.3749
+N3P|Brantford Northeast|Ontario|43.1884|-80.2422
+N3R|Brantford Central|Ontario|43.1501|-80.2766
+N3S|Brantford Southeast|Ontario|43.1242|-80.2412
+N3T|Brantford Southwest|Ontario|43.1094|-80.275
+N3V|Brantford Northwest|Ontario|43.1704|-80.2937
+N3W|Caledonia|Ontario|43.0776|-79.9639
+N3Y|Simcoe|Ontario|42.8126|-80.3091
+N4B|Delhi|Ontario|42.824|-80.4811
+N4G|Tillsonburg|Ontario|42.8806|-80.7527
+N4K|Owen Sound|Ontario|44.5519|-80.9385
+N4L|Meaford|Ontario|44.6079|-80.5922
+N4N|Hanover|Ontario|44.1385|-81.0237
+N4S|Woodstock Central|Ontario|43.1277|-80.7743
+N4T|Woodstock North|Ontario|43.1477|-80.7285
+N4V|Woodstock South|Ontario|43.1127|-80.7368
+N4W|Listowel|Ontario|43.7315|-80.9533
+N4X|St. Mary's|Ontario|43.261|-81.1516
+N4Z|Stratford South|Ontario|43.3555|-80.9961
+N5A|Stratford North|Ontario|43.3717|-80.9844
+N5C|Ingersoll|Ontario|43.027|-80.8706
+N5H|Aylmer|Ontario|42.7797|-80.9864
+N5L|Port Stanley|Ontario|42.6652|-81.2018
+N5P|St. Thomas North|Ontario|42.7788|-81.2134
+N5R|St. Thomas South|Ontario|42.7725|-81.2003
+N5V|London (YXU / North and East Argyle / East Huron Heights)|Ontario|42.9927|-81.1686
+N5W|London East (SW Argyle / Hamilton Road)|Ontario|42.9778|-81.1941
+N5X|London (Fanshawe / Stoneybrook / Stoney Creek / Uplands / East Masonville)|Ontario|43.0303|-81.2676
+N5Y|London (West Huron Heights / Carling)|Ontario|43.0093|-81.21
+N5Z|London (Glen Cairn)|Ontario|42.9743|-81.1946
+N6A|London North (UWO)|Ontario|42.9793|-81.2556
+N6B|London Central|Ontario|42.9759|-81.229
+N6C|London South (East Highland / North White Oaks / North Westminster)|Ontario|42.9799|-81.2609
+N6E|London (South White Oaks / Central Westminster / East Longwoods / West Brockley)|Ontario|42.9419|-81.2475
+N6G|London (Sunningdale / West Masonville / Medway / NE Hyde Park / East Fox Hollow)|Ontario|42.9943|-81.2623
+N6H|London West (Central Hyde Park / Oakridge)|Ontario|42.9899|-81.2607
+N6J|London (Southcrest / East Westmount / West Highland)|Ontario|42.9797|-81.2639
+N6K|London (Riverbend / Woodhull / North Sharon Creek / Byron / West Westmount)|Ontario|42.9627|-81.2948
+N6L|London (East Tempo)|Ontario|42.9344|-81.2802
+N6M|London (Jackson / Old Victoria / Bradley / North Highbury)|Ontario|42.9922|-81.1398
+N6N|London (South Highbury / Glanworth / East Brockley / SE Westminster)|Ontario|42.9324|-81.1916
+N6P|London (Talbot / Lambeth / West Tempo / South Sharon Creek)|Ontario|42.9114|-81.2999
+N7A|Goderich|Ontario|43.7347|-81.7105
+N7G|Strathroy|Ontario|42.9625|-81.6081
+N7L|Chatham Northwest|Ontario|42.4029|-82.1941
+N7M|Chatham Southeast|Ontario|42.3997|-82.1996
+N7S|Sarnia Central|Ontario|42.9607|-82.3718
+N7T|Sarnia Southwest|Ontario|42.971|-82.4084
+N7V|Sarnia Northwest|Ontario|42.9891|-82.399
+N7W|Sarnia Southeast|Ontario|42.9838|-82.3214
+N7X|Sarnia Northeast|Ontario|43.0147|-82.3417
+N8A|Wallaceburg|Ontario|42.5799|-82.3823
+N8H|Leamington|Ontario|42.0606|-82.6029
+N8M|Essex|Ontario|42.1754|-82.8226
+N8N|Tecumseh Outskirts|Ontario|42.3326|-82.8926
+N8P|Windsor (East Riverside)|Ontario|42.3391|-82.9279
+N8R|Windsor (East Forest Glade)|Ontario|42.3136|-82.9338
+N8S|Windsor (Riverside)|Ontario|42.3307|-82.9752
+N8T|Windsor (West Forest Glade / East Fontainbleu)|Ontario|42.3188|-82.965
+N8V|Tecumseh (YQG)|Ontario|42.2679|-82.9699
+N8W|Windsor (South Walkerville / West Fontainbleu / Walker Farm / Devonshire)|Ontario|42.3062|-83.0017
+N8X|Windsor South Central (West Walkerville / Remington Park)|Ontario|42.3039|-83.0308
+N8Y|Windsor East (East Walkerville)|Ontario|42.3251|-83.0171
+N9A|Windsor (City Centre / NW Walkerville)|Ontario|42.3159|-83.0393
+N9B|Windsor (University / South Cameron)|Ontario|42.3158|-83.0568
+N9C|Windsor (Sandwich / Ojibway / West Malden)|Ontario|42.3077|-83.0724
+N9E|Windsor South (East Malden)|Ontario|42.2736|-83.0416
+N9G|Windsor (Roseland)|Ontario|42.2581|-82.9988
+N9H|La Salle East|Ontario|42.2351|-82.998
+N9J|La Salle West|Ontario|42.247|-83.1
+N9K|Tecumseh Central|Ontario|42.049|-83.1032
+N9V|Amherstburg|Ontario|42.1106|-83.1115
+N9Y|Kingsville|Ontario|42.0377|-82.7394
+P0A|Nipissing Central (Burk's Falls)|Ontario|45.4139|-79.6728
+P0B|Nipissing South (Utterson)|Ontario|45.1103|-79.158
+P0C|Parry Sound Mid-Shore (Bala)|Ontario|44.8462|-79.7954
+P0E|Parry Sound South Shore (Kilworthy)|Ontario|44.8935|-79.741
+P0G|Parry Sound North Shore (Nobel)|Ontario|45.9033|-80.5762
+P0H|Nipissing North (Callander)|Ontario|45.8738|-79.8846
+P0J|Timiskaming South (Temiskaming Shores)|Ontario|47.6756|-79.5424
+P0K|Timiskaming North (Iroquois Falls A)|Ontario|48.1346|-80.0769
+P0L|Cochrane Region (Hearst)|Ontario|52.923|-82.4173
+P0M|Algoma
+P0N|Timmins Region (South Porcupine)|Ontario|48.4466|-80.8161
+P0P|Manitoulin (Little Current)|Ontario|46.0182|-82.2507
+P0R|Algoma Southwest (Blind River)|Ontario|46.1849|-82.8228
+P0S|Lake Superior East Shore (Wawa)|Ontario|46.9551|-84.5005
+P0T|Lake Superior North Shore (Marathon)|Ontario|50.139|-89.0561
+P0V|Northwestern Ontario (Red Lake)|Ontario|50.2407|-90.2024
+P0W|Rainy River Region (Emo)|Ontario|48.7778|-93.962
+P0X|Kenora Region (Keewatin)|Ontario|49.7003|-94.8583
+P0Y|Lake of the Woods East Shore (Ingolf)|Ontario|49.7857|-95.1168
+P1A|North Bay South|Ontario|46.3036|-79.4624
+P1B|North Bay Central|Ontario|46.3094|-79.464
+P1C|North Bay North|Ontario|46.3411|-79.4457
+P1H|Huntsville|Ontario|45.3272|-79.2151
+P1L|Bracebridge|Ontario|45.057|-79.3366
+P1P|Gravenhurst|Ontario|44.9451|-79.3549
+P2A|Parry Sound|Ontario|45.3405|-80.0365
+P2B|Sturgeon Falls|Ontario|46.3664|-79.9178
+P2N|Kirkland Lake|Ontario|48.151|-80.0328
+P3A|Greater Sudbury (New Sudbury)|Ontario|46.5076|-80.9872
+P3B|Greater Sudbury (Downtown / Minnow Lake)|Ontario|46.4769|-80.9099
+P3C|Greater Sudbury (Gatchell / West End / Little Britain)|Ontario|46.4727|-81.0291
+P3E|Greater Sudbury (Robinson / Lockerby)|Ontario|46.4918|-80.9955
+P3G|Greater Sudbury (Lo-Ellen / McFarlane Lake)|Ontario|46.4106|-81.0517
+P3L|Greater Sudbury (Garson)|Ontario|46.5625|-80.8665
+P3N|Greater Sudbury (Val Caron)|Ontario|46.6191|-81.0356
+P3P|Greater Sudbury (Hanmer)|Ontario|46.6318|-81.0147
+P3Y|Greater Sudbury (Lively)|Ontario|46.4223|-81.1165
+P4N|Timmins Southeast|Ontario|48.4757|-81.3366
+P4P|Timmins North|Ontario|48.4951|-81.3513
+P4R|Timmins West|Ontario|48.473|-81.3765
+P5A|Elliot Lake|Ontario|46.372|-82.6721
+P5E|Espanola|Ontario|46.2629|-81.7719
+P5N|Kapuskasing|Ontario|49.4134|-82.4203
+P6A|Sault Ste. Marie East|Ontario|46.5175|-84.3414
+P6B|Sault Ste. Marie Central|Ontario|46.5105|-84.321
+P6C|Sault Ste. Marie North|Ontario|46.5245|-84.3768
+P7A|Thunder Bay Northeast|Ontario|48.4578|-89.1885
+P7B|Thunder Bay North Central|Ontario|48.4349|-89.2192
+P7C|Thunder Bay Central|Ontario|48.3852|-89.242
+P7E|Thunder Bay South Central|Ontario|48.3775|-89.2704
+P7G|Thunder Bay North|Ontario|48.4511|-89.273
+P7J|Thunder Bay South|Ontario|48.3187|-89.3415
+P7K|Thunder Bay West|Ontario|48.3959|-89.3556
+P8N|Dryden|Ontario|49.7856|-92.8364
+P8T|Sioux Lookout|Ontario|50.0885|-91.9086
+P9A|Fort Frances|Ontario|48.6075|-93.3869
+P9N|Kenora|Ontario|49.7667|-94.4848
+C0A|Montague|Prince Edward Island|46.1668|-62.6487
+C0B|Prince County (Portage)|Prince Edward Island|46.3182|-63.5586
+C1A|Charlottetown Southeast Prince Edward Island Provincial Government|Prince Edward Island|46.2318|-63.1192
+C1B|Stratford|Prince Edward Island|46.2067|-63.0729
+C1C|Charlottetown North|Prince Edward Island|46.2688|-63.1097
+C1E|Charlottetown West|Prince Edward Island|46.2607|-63.16
+C1N|Summerside|Prince Edward Island|46.3907|-63.7868
+G0A|Capitale-Nationale (Stoneham)|Quebec|46.8524|-72.0259
+G0B|Cap-aux-Meules|Quebec|47.3983|-61.7742
+G0C|Gaspésie-Sud (New Richmond)|Quebec|48.1496|-65.7053
+G0E|Gaspésie-Nord (Grande-Vallée)|Quebec|48.9298|-64.3438
+G0G|Côte-Nord/Anticosti (Schefferville)|Quebec|50.1169|-62.4136
+G0H|Manicouagan (Baie-Trinité)|Quebec|49.1633|-68.3335
+G0J|Gaspésie-Ouest (Causapscal)|Quebec|49.0226|-66.8158
+G0K|Bas-St-Laurent- Est (Sainte-Luce)|Quebec|48.3473|-68.3948
+G0L|Bas-St-Laurent- Ouest (Trois-Pistoles)|Quebec|47.6843|-68.8681
+G0M|Région de Beauce (Saint-Prosper-De- Dorchester)|Quebec|46.2057|-70.8326
+G0N|Chaudière-Sud (Disraeli)|Quebec|46.0651|-71.4352
+G0P|Centre-du- Québec-Est (Saint-Valère)|Quebec|45.8641|-71.6523
+G0R|Appalaches (La Pocatière)|Quebec|46.9055|-70.7456
+G0S|Chaudière-Nord (Saint-Joseph- De-Beauce)|Quebec|46.2635|-70.7929
+G0T|Le Fjord (Forestville)|Quebec|47.6525|-70.4067
+G0V|Saguenay- Lac-St-Jean (Alouette)|Quebec|48.3448|-70.9869
+G0W|Région de Mistassini (Chambord)|Quebec|48.8854|-72.4433
+G0X|Mauricie (Parent)|Quebec|46.6996|-72.643
+G0Y|L'Erable (Nantes)|Quebec|45.6544|-71.0379
+G0Z|Centre-du- Québec-Nord (Daveluyville)|Quebec|46.152|-72.1347
+G1A|Quebec Provincial Government|Quebec|46.9181|-71.2036
+G1B|Beauport North|Quebec|46.9179|-71.1964
+G1C|Beauport Central|Quebec|46.8886|-71.2212
+G1E|Beauport South|Quebec|46.876|-71.192
+G1G|Jean-Talon Southeast|Quebec|46.8921|-71.3056
+G1H|Charlesbourg South|Quebec|46.8615|-71.2698
+G1J|Quebec City Lower Riverbank|Quebec|46.8483|-71.234
+G1K|Quebec City Mid-Riverbank|Quebec|46.8143|-71.2431
+G1L|Quebec City Northeast|Quebec|46.8396|-71.2506
+G1M|Quebec City North Central|Quebec|46.8165|-71.236
+G1N|Quebec City South Central|Quebec|46.81|-71.2526
+G1P|Quebec City West|Quebec|46.8257|-71.331
+G1R|Quebec City East|Quebec|46.8128|-71.2194
+G1S|Quebec City South|Quebec|46.7867|-71.2436
+G1T|Quebec City Upper Riverbank|Quebec|46.7863|-71.2579
+G1V|Sainte-Foy Northeast|Quebec|46.789|-71.2936
+G1W|Sainte-Foy Southeast|Quebec|46.7673|-71.2857
+G1X|Sainte-Foy West|Quebec|46.7828|-71.3149
+G1Y|Cap-Rouge|Quebec|46.7595|-71.3433
+G2A|Loretteville North|Quebec|46.8681|-71.3787
+G2B|Loretteville South|Quebec|46.8569|-71.3506
