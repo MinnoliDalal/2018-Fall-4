@@ -1198,3 +1198,425 @@ G1X|Sainte-Foy West|Quebec|46.7828|-71.3149
 G1Y|Cap-Rouge|Quebec|46.7595|-71.3433
 G2A|Loretteville North|Quebec|46.8681|-71.3787
 G2B|Loretteville South|Quebec|46.8569|-71.3506
+
+G2C|Quebec City Northwest|Quebec|46.8342|-71.3463
+G2E|L'Ancienne- Lorette Northeast|Quebec|46.8175|-71.371
+G2G|L'Ancienne- Lorette Southwest|Quebec|46.8119|-71.3906
+G2J|Quebec City Inner North|Quebec|46.8428|-71.2774
+G2K|Quebec City Outer North|Quebec|46.8105|-71.2426
+G2L|Charlesbourg North|Quebec|46.8921|-71.2732
+G2M|Jean-Talon Northeast|Quebec|46.9159|-71.3163
+G2N|Jean-Talon West|Quebec|46.9338|-71.3446
+G3A|St-Augustin- De-Desmaures|Quebec|46.7529|-71.3734
+G3E|Saint-Émile|Quebec|46.8765|-71.3233
+G3G|Lac-Saint-Charles|Quebec|46.9445|-71.4133
+G3H|Pont-Rouge|Quebec|46.756|-71.6969
+G3J|Val-Bélair North|Quebec|46.8617|-71.4241
+G3K|Val-Bélair South|Quebec|46.8388|-71.3998
+G3L|Saint-Raymond|Quebec|46.8897|-71.8349
+G3M|Donnacona|Quebec|46.6725|-71.7368
+G3Z|Baie-Saint-Paul|Quebec|47.4454|-70.5199
+G4A|Clermont|Quebec|47.695|-70.2239
+G4R|Sept-Îles Southeast|Quebec|50.2206|-66.3581
+G4S|Sept-Îles Northwest|Quebec|50.2309|-66.3901
+G4T|Les Îles-De-La- Madeleine|Quebec|47.5371|-61.5387
+G4V|Sainte-Anne- Des-Monts|Quebec|49.1283|-66.4906
+G4W|Matane|Quebec|48.8526|-67.518
+G4X|Gaspé|Quebec|48.8319|-64.4813
+G4Z|Baie-Comeau Northeast|Quebec|49.2446|-68.1442
+G5A|La Malbaie|Quebec|47.6259|-70.0967
+G5B|Port-Cartier|Quebec|50.0382|-66.8659
+G5C|Baie-Comeau Southwest|Quebec|49.1962|-68.2976
+G5H|Mont-Joli|Quebec|48.5949|-68.1883
+G5J|Amqui|Quebec|48.4584|-67.4333
+G5L|Rimouski Central|Quebec|48.4525|-68.5232
+G5M|Rimouski Northeast|Quebec|48.4547|-68.4973
+G5N|Rimouski Southwest|Quebec|48.4277|-68.5122
+G5R|Rivière-du-Loup|Quebec|47.8559|-69.5376
+G5T|Degelis|Quebec|47.5521|-68.6441
+G5V|Montmagny|Quebec|46.9984|-70.5595
+G5X|Beauceville|Quebec|46.2093|-70.7788
+G5Y|Saint-Georges Central|Quebec|46.13|-70.6557
+G5Z|Saint-Georges Southeast|Quebec|46.1231|-70.647
+G6A|Saint-Georges Northwest|Quebec|46.1379|-70.6715
+G6B|Lac-Megantic|Quebec|45.5946|-70.9176
+G6C|Pintendre|Quebec|46.7557|-71.124
+G6E|Sainte-Marie|Quebec|46.4691|-71.0427
+G6G|Thetford Mines|Quebec|46.1134|-71.3108
+G6H|Black Lake|Quebec|46.0654|-71.356
+G6J|Saint-Etienne- De-Lauzon|Quebec|46.6561|-71.3095
+G6K|Saint- Redempteur|Quebec|46.7038|-71.2837
+G6L|Plessisville|Quebec|46.2255|-71.7779
+G6P|Victoriaville Central|Quebec|46.0606|-71.9477
+G6R|Victoriaville South|Quebec|46.0388|-71.9596
+G6S|Victoriaville East|Quebec|46.0714|-71.9332
+G6T|Victoriaville Northwest|Quebec|46.0477|-71.9549
+G6V|Lévis North|Quebec|46.8207|-71.1787
+G6W|Lévis South|Quebec|46.7933|-71.1885
+G6X|Charny|Quebec|46.7228|-71.2788
+G6Z|Saint-Jean- Chrysostome|Quebec|46.7391|-71.2055
+G7A|Saint-Nicolas|Quebec|46.6709|-71.3548
+G7B|La Baie|Quebec|48.3133|-70.8557
+G7G|Chicoutimi North|Quebec|48.4572|-71.0591
+G7H|Chicoutimi East|Quebec|48.4337|-71.0225
+G7J|Chicoutimi West|Quebec|48.4377|-71.1244
+G7K|Chicoutimi Southwest|Quebec|48.3976|-71.11
+G7N|Laterrière|Quebec|48.3084|-71.1104
+G7P|Saint-Ambroise|Quebec|48.51|-71.268
+G7S|Jonquière Northeast|Quebec|48.4099|-71.1961
+G7T|Jonquière Southeast|Quebec|48.4112|-71.2149
+G7X|Jonquière Central|Quebec|48.4359|-71.2318
+G7Y|Jonquière Southwest|Quebec|48.3933|-71.267
+G7Z|Jonquière Northwest|Quebec|48.4327|-71.262
+G8A|Jonquière West|Quebec|48.4244|-71.2619
+G8B|Alma Southeast|Quebec|48.5468|-71.6399
+G8C|Alma Southwest|Quebec|48.5292|-71.642
+G8E|Alma North|Quebec|48.5592|-71.6416
+G8G|Métabetchouan- Lac-a-la-Croix|Quebec|48.4223|-71.8737
+G8H|Roberval|Quebec|48.5044|-72.2165
+G8J|Saint-Prime|Quebec|48.5774|-72.441
+G8K|Saint-Félicien|Quebec|48.6556|-72.4469
+G8L|Dolbeau- Mistassini|Quebec|48.8707|-72.2141
+G8M|Albanel|Quebec|48.8892|-72.1938
+G8N|Hébertville|Quebec|48.3942|-71.6775
+G8P|Chibougamau|Quebec|49.9214|-74.3601
+G8T|Cap-de-la- Madeleine Central and southeast|Quebec|46.419|-72.6006
+G8V|Cap-de-la- Madeleine Northeast|Quebec|46.3887|-72.4875
+G8W|Cap-de-la- Madeleine West|Quebec|46.4024|-72.5846
+G8Y|Trois-Rivières Central|Quebec|46.3688|-72.58
+G8Z|Trois-Rivières Northeast|Quebec|46.3648|-72.5564
+G9A|Trois-Rivières East|Quebec|46.3647|-72.5558
+G9B|Trois-Rivières South|Quebec|46.3111|-72.5718
+G9C|Trois-Rivières West|Quebec|46.3938|-72.6534
+G9H|Becancour|Quebec|46.3445|-72.4369
+G9N|Shawinigan Central|Quebec|46.5429|-72.748
+G9P|Shawinigan Southeast|Quebec|46.5258|-72.7381
+G9R|Shawinigan Northwest|Quebec|46.576|-72.7764
+G9T|Grand-Mère|Quebec|46.6168|-72.7336
+G9X|La Tuque|Quebec|47.4583|-72.7729
+H0H|Reserved (Santa Claus)|Quebec|90|0
+H0M|Akwesasne Region (Akwesasne)|Quebec|45.6986|-73.5025
+H1A|Pointe-Aux-Trembles|Quebec|45.6587|-73.5236
+H1B|Montreal East|Quebec|45.6454|-73.5502
+H1C|Rivière-des-Prairies Northeast|Quebec|45.6596|-73.5704
+H1E|Rivière-Des-Prairies Southwest|Quebec|45.6595|-73.5729
+H1G|Montreal North North|Quebec|45.6061|-73.6389
+H1H|Montreal North South|Quebec|45.5829|-73.6524
+H1J|Anjou West|Quebec|45.6036|-73.569
+H1K|Anjou East|Quebec|45.6077|-73.5428
+H1L|Mercier North|Quebec|45.5943|-73.5362
+H1M|Mercier West|Quebec|45.5902|-73.5559
+H1N|Mercier Southeast|Quebec|45.5719|-73.5499
+H1P|Saint-Léonard North|Quebec|45.6105|-73.6048
+H1R|Saint-Léonard West|Quebec|45.5844|-73.6229
+H1S|Saint-Léonard Southeast|Quebec|45.5716|-73.5985
+H1T|Rosemont North|Quebec|45.5653|-73.5869
+H1V|Maisonneuve|Quebec|45.5702|-73.551
+H1W|Hochelaga|Quebec|45.5423|-73.5616
+H1X|Rosemont Central|Quebec|45.5577|-73.5935
+H1Y|Rosemont South|Quebec|45.5525|-73.598
+H1Z|Saint-Michel West|Quebec|45.5652|-73.6444
+H2A|Saint-Michel East|Quebec|45.5583|-73.6118
+H2B|Ahuntsic North|Quebec|45.5664|-73.647
+H2C|Ahuntsic Central|Quebec|45.5593|-73.6719
+H2E|Villeray Northeast|Quebec|45.5522|-73.6256
+H2G|Petite-Patrie Northeast|Quebec|45.5434|-73.6061
+H2H|Plateau Mont-Royal North|Quebec|45.5377|-73.5837
+H2J|Plateau Mont-Royal North Central|Quebec|45.5289|-73.5928
+H2K|Centre-Sud North|Quebec|45.53|-73.5672
+H2L|Centre-Sud South|Quebec|45.5252|-73.5744
+H2M|Ahuntsic East|Quebec|45.55|-73.6515
+H2N|Ahuntsic Southeast|Quebec|45.5402|-73.659
+H2P|Villeray West|Quebec|45.5409|-73.6418
+H2R|Villeray Southeast|Quebec|45.5452|-73.6266
+H2S|Petite-Patrie Southwest|Quebec|45.5356|-73.6144
+H2T|Plateau Mont-Royal West|Quebec|45.5278|-73.6024
+H2V|Outremont|Quebec|45.5298|-73.6153
+H2W|Plateau Mont-Royal South Central|Quebec|45.5194|-73.5839
+H2X|Plateau Mont-Royal Southeast|Quebec|45.5148|-73.5739
+H2Y|Old Montreal|Quebec|45.508|-73.554
+H2Z|Downtown Montreal Northeast|Quebec|45.5066|-73.5623
+H3A|Downtown Montreal North|Quebec|45.5078|-73.5804
+H3B|Downtown Montreal East|Quebec|45.5058|-73.5672
+H3C|Griffintown (Includes Île Notre-Dame & Île Sainte-Hélène)|Quebec|45.503|-73.5679
+H3E|L'Île-Des-Soeurs|Quebec|45.4679|-73.5457
+H3G|Downtown Montreal Southeast|Quebec|45.5019|-73.5853
+H3H|Downtown Montreal South & West|Quebec|45.5123|-73.5967
+H3J|Petite-Bourgogne|Quebec|45.4922|-73.5725
+H3K|Pointe-Saint-Charles|Quebec|45.4858|-73.564
+H3L|Ahuntsic Southwest|Quebec|45.5529|-73.6754
+H3M|Cartierville Northeast|Quebec|45.5459|-73.6979
+H3N|Parc-Extension|Quebec|45.5335|-73.6464
+H3P|Mount Royal North|Quebec|45.5209|-73.653
+H3R|Mount Royal Central|Quebec|45.5181|-73.6545
+H3S|Côte-des-Neiges North|Quebec|45.5155|-73.6292
+H3T|Côte-des-Neiges Northeast|Quebec|45.5115|-73.616
+H3V|Côte-des-Neiges East|Quebec|45.4965|-73.6177
+H3W|Côte-des-Neiges Southwest|Quebec|45.4988|-73.6442
+H3X|Hampstead|Quebec|45.4915|-73.6483
+H3Y|Westmount West|Quebec|45.489|-73.618
+H3Z|Westmount East|Quebec|45.4909|-73.5885
+H4A|Notre-Dame-de-GrÔce Northeast|Quebec|45.4781|-73.6252
+H4B|Notre-Dame-de-GrÔce Southwest|Quebec|45.4681|-73.636
+H4C|Saint-Henri|Quebec|45.478|-73.5922
+H4E|Ville Émard|Quebec|45.468|-73.5863
+H4G|Verdun North|Quebec|45.4644|-73.5798
+H4H|Verdun South|Quebec|45.4532|-73.5818
+H4J|Cartierville Central|Quebec|45.5353|-73.7231
+H4K|Cartierville Southwest|Quebec|45.5248|-73.7392
+H4L|Saint-Laurent Inner Northeast|Quebec|45.5269|-73.6974
+H4M|Saint-Laurent East|Quebec|45.5067|-73.6906
+H4N|Saint-Laurent Outer Northeast|Quebec|45.5329|-73.6807
+H4P|Mount Royal South|Quebec|45.4991|-73.6722
+H4R|Saint-Laurent Central|Quebec|45.5148|-73.7309
+H4S|Saint-Laurent Southwest|Quebec|45.4958|-73.754
+H4T|Saint-Laurent Southeast|Quebec|45.4954|-73.6798
+H4V|Côte-Saint-Luc East|Quebec|45.4755|-73.6555
+H4W|Côte-Saint-Luc West|Quebec|45.478|-73.6704
+H4X|Montreal West|Quebec|45.4575|-73.6649
+H4Y|Dorval Central|Quebec|45.5103|-73.6818
+H4Z|Tour de la Bourse|Quebec|45.5003|-73.5621
+H5A|Place Bonaventure|Quebec|45.503|-73.5679
+H5B|Place Desjardins|Quebec|45.5066|-73.5623
+H7A|Duvernay-Est|Quebec|45.6736|-73.5919
+H7B|Saint-Franþois|Quebec|45.6346|-73.6769
+H7C|Saint-Vincent-de-Paul|Quebec|45.6176|-73.6637
+H7E|Duvernay|Quebec|45.6142|-73.669
+H7G|Pont-Viau|Quebec|45.5565|-73.6791
+H7H|Auteuil West|Quebec|45.6429|-73.7494
+H7J|Auteuil Northeast|Quebec|45.6837|-73.6728
+H7K|Auteuil South|Quebec|45.6121|-73.7898
+H7L|Sainte-Rose|Quebec|45.6303|-73.7802
+H7M|Vimont|Quebec|45.6089|-73.7331
+H7N|Laval-des-Rapides|Quebec|45.5772|-73.7007
+H7P|Fabreville|Quebec|45.5917|-73.8293
+H7R|Laval-sur-le-Lac|Quebec|45.5483|-73.8578
+H7S|Chomedey Northeast|Quebec|45.5732|-73.7444
+H7T|Chomedey Northwest|Quebec|45.5569|-73.748
+H7V|Chomedey East|Quebec|45.5364|-73.7267
+H7W|Chomedey South|Quebec|45.549|-73.7641
+H7X|Sainte-Dorothée|Quebec|45.5359|-73.8231
+H7Y|Îles-Laval|Quebec|45.5209|-73.8354
+H8N|LaSalle Northwest|Quebec|45.4551|-73.6084
+H8P|LaSalle Southeast|Quebec|45.4371|-73.5979
+H8R|Saint-Pierre|Quebec|45.4473|-73.6557
+H8S|Lachine East|Quebec|45.4496|-73.6811
+H8T|Lachine West|Quebec|45.4648|-73.7192
+H8Y|Roxboro|Quebec|45.5145|-73.8162
+H8Z|Pierrefonds|Quebec|45.5135|-73.8389
+H9A|Dollard-Des- Ormeaux Northwest|Quebec|45.5055|-73.823
+H9B|Dollard-Des- Ormeaux East|Quebec|45.4937|-73.8132
+H9C|L'Île Bizard Northeast|Quebec|45.5141|-73.9012
+H9E|L'Île-Bizard Southwest|Quebec|45.5106|-73.91
+H9G|Dollard-Des- Ormeaux Southwest|Quebec|45.4794|-73.8446
+H9H|Sainte-Geneviève|Quebec|45.4873|-73.8635
+H9J|Kirkland|Quebec|45.469|-73.8862
+H9K|Senneville|Quebec|45.4643|-73.8936
+H9P|Dorval Outskirts|Quebec|45.4617|-73.7305
+H9R|Pointe-Claire|Quebec|45.4748|-73.8207
+H9S|L'Île-Dorval|Quebec|45.4409|-73.7733
+H9W|Beaconsfield|Quebec|45.4407|-73.8727
+H9X|Sainte-Anne-De- Bellevue|Quebec|45.418|-73.9515
+J0A|Centre-du- Québec-Sud (Warwick)|Quebec|45.6999|-72.0033
+J0B|Estrie-Est (Stanstead)|Quebec|45.242|-72.0177
+J0C|Centre-du- Québec-Ouest (Saint- Bonaventure)|Quebec|45.9914|-72.3216
+J0E|Estrie-Ouest (Fulford)|Quebec|45.3973|-72.8797
+J0G|Bois-Francs-Nord (Odanak)|Quebec|46.0668|-72.8043
+J0H|Bois-Francs-Sud (Saint-Nazaire- D'Acton)|Quebec|45.6125|-72.5205
+J0J|Montérégie-Est (Bedford)|Quebec|45.0784|-73.0291
+J0K|Lanaudière-Nord (Saint-Esprit)|Quebec|46.104|-73.256
+J0L|Montérégie-Nord (Saint-Antoine- Sur-Richelieu)|Quebec|45.7317|-73.2793
+J0M|Nunavik (Kuujjuaq)|Quebec|60.0342|-70.0118
+J0N|Région d'Oka (Oka)|Quebec|45.718|-73.6354
+J0P|Vaudreuil- Soulanges (Coteau-du-Lac)|Quebec|45.4487|-74.1015
+J0R|Lanaudière-Sud (Prévost)|Quebec|45.8373|-74.1387
+J0S|Montérégie- Ouest (Saint-Anicet)|Quebec|45.0131|-74.1744
+J0T|Laurentides-Nord (Montcalm)|Quebec|46.2634|-74.7687
+J0V|Laurentides-Sud (Chénéville)|Quebec|45.7631|-74.4624
+J0W|Outaouais-Nord (Ferme-Neuve)|Quebec|46.7019|-75.437
+J0X|Outaouais-Sud (Thurso)|Quebec|45.5234|-76.4392
+J0Y|Abitibi- Témiscamingue- Est (Radisson)|Quebec|48.4606|-78.1936
+J0Z|Abitibi- Témiscamingue- Ouest (Guigues)|Quebec|47.4822|-79.2102
+J1A|Coaticook|Quebec|45.1563|-71.8095
+J1E|Sherbrooke Northeast|Quebec|45.4301|-71.8901
+J1G|Sherbrooke East|Quebec|45.4038|-71.8853
+J1H|Sherbrooke Central|Quebec|45.4117|-71.9074
+J1J|Sherbrooke North|Quebec|45.4242|-71.9188
+J1K|Sherbrooke West|Quebec|45.3928|-71.9441
+J1L|Sherbrooke Northwest|Quebec|45.4053|-71.9387
+J1M|Sherbrooke Southeast|Quebec|45.3672|-71.8692
+J1N|Rock Forest|Quebec|45.3814|-71.9827
+J1S|Windsor|Quebec|45.582|-72.0094
+J1T|Asbestos|Quebec|45.7808|-71.9348
+J1X|Magog|Quebec|45.282|-72.139
+J1Z|Saint-Cyrille- De-Wendover|Quebec|45.8852|-72.414
+J2A|Drummondville Southeast|Quebec|45.8459|-72.44
+J2B|Drummondville South|Quebec|45.8845|-72.4841
+J2C|Drummondville Central|Quebec|45.9092|-72.4808
+J2E|Drummondville Northwest|Quebec|45.9037|-72.5297
+J2G|Granby Central|Quebec|45.4109|-72.7103
+J2H|Granby East|Quebec|45.4036|-72.7097
+J2J|Granby West|Quebec|45.3915|-72.7799
+J2K|Cowansville|Quebec|45.2214|-72.7567
+J2L|Bromont|Quebec|45.3161|-72.6501
+J2N|Farnham|Quebec|45.2925|-72.978
+J2R|Saint-Hyacinthe Northwest|Quebec|45.648|-73.0056
+J2S|Saint-Hyacinthe Southwest|Quebec|45.6352|-72.9726
+J2T|Saint-Hyacinthe East|Quebec|45.6414|-72.9243
+J2W|Saint-Luc|Quebec|45.3988|-73.3723
+J2X|Saint-Jean- sur-Richelieu East|Quebec|45.3167|-73.2338
+J2Y|Saint-Jean- sur-Richelieu West|Quebec|45.3172|-73.3346
+J3A|Saint-Jean- sur-Richelieu North|Quebec|45.334|-73.2662
+J3B|Saint-Jean- sur-Richelieu Central|Quebec|45.3234|-73.2662
+J3E|Sainte-Julie|Quebec|45.5806|-73.336
+J3G|Beloeil West|Quebec|45.5462|-73.2339
+J3H|Beloeil East|Quebec|45.5413|-73.2215
+J3L|Chambly|Quebec|45.4694|-73.289
+J3M|Marieville|Quebec|45.4355|-73.1738
+J3N|Saint-Basile- Le-Grand|Quebec|45.5355|-73.2719
+J3P|Sorel Central|Quebec|46.045|-73.1172
+J3R|Sorel Southwest|Quebec|46.0476|-73.1263
+J3T|Nicolet|Quebec|46.2326|-72.5995
+J3V|Saint-Bruno|Quebec|45.5392|-73.3598
+J3X|Varennes|Quebec|45.6911|-73.4312
+J3Y|Saint-Hubert Central|Quebec|45.4841|-73.4329
+J3Z|Saint-Hubert East|Quebec|45.4732|-73.3716
+J4B|Boucherville|Quebec|45.5685|-73.423
+J4G|Longueuil North|Quebec|45.5535|-73.4987
+J4H|Longueuil West|Quebec|45.5428|-73.5083
+J4J|Longueuil Central|Quebec|45.529|-73.5039
+J4K|Longueuil Southwest|Quebec|45.5284|-73.5246
+J4L|Longueuil Southeast|Quebec|45.5291|-73.4708
+J4M|Longueuil East|Quebec|45.544|-73.4505
+J4N|Longueuil Northeast|Quebec|45.5382|-73.4577
+J4P|Saint-Lambert North|Quebec|45.4993|-73.5157
+J4R|Saint-Lambert Central|Quebec|45.4876|-73.5092
+J4S|Saint-Lambert South|Quebec|45.4832|-73.5067
+J4T|Saint-Hubert West|Quebec|45.4966|-73.4481
+J4V|Greenfield Park|Quebec|45.4926|-73.4473
+J4W|Brossard Northwest|Quebec|45.4769|-73.4992
+J4X|Brossard Southwest|Quebec|45.4564|-73.4931
+J4Y|Brossard South|Quebec|45.4605|-73.4651
+J4Z|Brossard Northeast|Quebec|45.4814|-73.4649
+J5A|Saint-Constant|Quebec|45.384|-73.5591
+J5B|Delson|Quebec|45.4024|-73.5376
+J5J|Saint-Sophie|Quebec|45.8184|-73.8983
+J5K|Saint-Colomban|Quebec|45.7334|-74.1309
+J5L|Saint-Jérôme West|Quebec|45.8052|-74.1051
+J5M|Saint-Lin- Laurentides|Quebec|45.8522|-73.7577
+J5R|La Prairie|Quebec|45.3973|-73.5284
+J5T|Lavaltrie|Quebec|45.905|-73.2594
+J5V|Louiseville|Quebec|46.2675|-72.9382
+J5W|L'Assomption|Quebec|45.8313|-73.4233
+J5X|L'Épiphanie|Quebec|45.8508|-73.4824
+J5Y|Repentigny Northeast|Quebec|45.7599|-73.4343
+J5Z|Repentigny West|Quebec|45.7289|-73.4907
+J6A|Repentigny South|Quebec|45.7134|-73.4778
+J6E|Joliette|Quebec|46.0551|-73.432
+J6J|ChÔteauguay North|Quebec|45.3944|-73.7494
+J6K|ChÔteauguay South|Quebec|45.3631|-73.7085
+J6N|Beauharnois|Quebec|45.3577|-73.7851
+J6R|Mercier|Quebec|45.3063|-73.748
+J6S|Salaberry-de- Valleyfield North|Quebec|45.2788|-74.1422
+J6T|Salaberry-de- Valleyfield South|Quebec|45.2571|-74.12
+J6V|Terrebonne East|Quebec|45.7005|-73.5298
+J6W|Terrebonne Central|Quebec|45.6908|-73.6308
+J6X|Terrebonne Northwest|Quebec|45.6986|-73.6632
+J6Y|Terrebonne Southwest|Quebec|45.6999|-73.8112
+J6Z|Sainte-Thérèse- de-Blainville Northeast|Quebec|45.6693|-73.7484
+J7A|Sainte-Thérèse- de-Blainville East|Quebec|45.6179|-73.8038
+J7B|Sainte-Thérèse- de-Blainville North|Quebec|45.6462|-73.8092
+J7C|Sainte-Thérèse- de-Blainville Northwest|Quebec|45.6488|-73.8466
+J7E|Sainte-Thérèse- de-Blainville Central|Quebec|45.6318|-73.8261
+J7G|Sainte-Thérèse- de-Blainville South|Quebec|45.5999|-73.8301
+J7H|Sainte-Thérèse- de-Blainville Southwest|Quebec|45.62|-73.8564
+J7J|Mirabel Northeast|Quebec|45.6563|-73.9753
+J7K|Mascouche Extremities|Quebec|45.7551|-73.5959
+J7L|Mascouche Central|Quebec|45.7567|-73.6263
+J7M|La Plaine|Quebec|45.7915|-73.7559
+J7N|Mirabel Southwest|Quebec|45.72|-74.0327
+J7P|Saint-Eustache Northeast|Quebec|45.5618|-73.8881
+J7R|Saint-Eustache Southwest|Quebec|45.5321|-73.894
+J7T|Vaudreuil- Dorion RCM|Quebec|45.3135|-74.0573
+J7V|Vaudreuil- Dorion|Quebec|45.4042|-74.034
+J7X|Valleyfield|Quebec|45.2616|-74.2078
+J7Y|Saint-Jérôme North|Quebec|45.814|-74.0176
+J7Z|Saint-Jérôme Southeast|Quebec|45.795|-74.0017
+J8A|Saint-Hippolyte|Quebec|45.9261|-74.0244
+J8B|Sainte-Adèle|Quebec|45.9454|-74.1327
+J8C|Sainte-Agathe- Des-Monts|Quebec|46.0469|-74.2901
+J8E|Mont-Tremblant|Quebec|46.156|-74.5627
+J8G|Chatham|Quebec|45.6068|-74.4387
+J8H|Lachute|Quebec|45.6484|-74.3406
+J8L|Buckingham|Quebec|45.599|-75.4206
+J8M|Masson-Angers|Quebec|45.5555|-75.4352
+J8N|Val-des-Monts|Quebec|45.688|-75.7837
+J8P|Gatineau Southeast|Quebec|45.495|-75.5883
+J8R|Gatineau Northeast|Quebec|45.4914|-75.6057
+J8T|Gatineau Southwest|Quebec|45.4979|-75.7043
+J8V|Gatineau Northwest|Quebec|45.488|-75.7474
+J8X|Hull Southeast|Quebec|45.4465|-75.7156
+J8Y|Hull Central|Quebec|45.4603|-75.7606
+J8Z|Hull North|Quebec|45.4659|-75.7558
+J9A|Hull Southwest|Quebec|45.4206|-75.7538
+J9B|Chelsea|Quebec|45.4039|-75.826
+J9E|Maniwaki|Quebec|46.3741|-75.9823
+J9H|Aylmer South|Quebec|45.3958|-75.8259
+J9J|Aylmer North|Quebec|45.4202|-75.7748
+J9L|Mont-Laurier|Quebec|46.5442|-75.4972
+J9P|Val-d'Or|Quebec|48.1068|-77.7833
+J9T|Amos|Quebec|48.5837|-78.1002
+J9V|Ville-Marie|Quebec|47.3288|-79.441
+J9X|Rouyn-Noranda South|Quebec|48.25|-79.0253
+J9Y|Rouyn-Noranda North|Quebec|48.8054|-79.1991
+J9Z|La Sarre|Quebec|48.8131|-79.2026
+S0A|Yorkton Region (Melville)|Saskatchewan|51.8194|-103.5644
+S0C|Southeastern Saskatchewan (Carlyle)|Saskatchewan|49.1895|-104.4374
+S0E|Eastern Saskatchewan (Melfort)|Saskatchewan|53.1325|-104.6719
+S0G|South Central Saskatchewan (Fort Qu'Appelle)|Saskatchewan|51.3669|-105.9973
+S0H|Southern Saskatchewan (Assiniboia)|Saskatchewan|50.1971|-105.8481
+S0J|Northern Saskatchewan (La Ronge)|Saskatchewan|52.7586|-107.4669
+S0K|Central Saskatchewan (Humboldt)|Saskatchewan|52.807|-105.3626
+S0L|Western Saskatchewan (Kindersley)|Saskatchewan|51.2296|-108.702
+S0M|Northwestern Saskatchewan (Battleford)|Saskatchewan|54.2836|-109.2415
+S0N|Southwestern Saskatchewan (Maple Creek)|Saskatchewan|50.3599|-108.5139
+S0P|Northeastern Saskatchewan (Creighton)|Saskatchewan|54.663|-102.0822
+S2V|Buena Vista|Saskatchewan|50.7763|-104.9291
+S3N|Yorkton|Saskatchewan|51.202|-102.457
+S4A|Estevan|Saskatchewan|49.1433|-102.9987
+S4H|Weyburn|Saskatchewan|49.6719|-103.8491
+S4L|Regina East|Saskatchewan|50.4395|-104.5758
+S4N|Regina Northeast and East Central|Saskatchewan|50.4399|-104.574
+S4P|Regina Central|Saskatchewan|50.4423|-104.6116
+S4R|Regina North Central|Saskatchewan|50.4707|-104.6116
+S4S|Regina South Saskatchewan Provincial Government|Saskatchewan|50.4253|-104.6347
+S4T|Regina West|Saskatchewan|50.4552|-104.6376
+S4V|Regina Southeast|Saskatchewan|50.4364|-104.5438
+S4W|Regina Southwest|Saskatchewan|50.4896|-104.6694
+S4X|Regina Northwest|Saskatchewan|50.4722|-104.6828
+S4Y|Regina Outer Northwest|Saskatchewan|50.478|-104.6987
+S4Z|Regina Northeast|Saskatchewan|50.4529|-104.5345
+S6H|Moose Jaw Southeast|Saskatchewan|50.4019|-105.5325
+S6J|Moose Jaw Northeast|Saskatchewan|50.4241|-105.5467
+S6K|Moose Jaw West|Saskatchewan|50.3768|-105.5819
+S6V|Prince Albert Central|Saskatchewan|53.2027|-105.7503
+S6W|Prince Albert Southwest|Saskatchewan|53.1744|-105.7636
+S6X|Prince Albert East|Saskatchewan|53.1922|-105.7055
+S7H|Saskatoon East Central|Saskatchewan|52.1131|-106.622
+S7J|Saskatoon South Central|Saskatchewan|52.1068|-106.6552
+S7K|Saskatoon North Central|Saskatchewan|52.1542|-106.6415
+S7L|Saskatoon West|Saskatchewan|52.1449|-106.6704
+S7M|Saskatoon Southwest|Saskatchewan|52.1261|-106.6985
+S7N|Saskatoon Northeast Central|Saskatchewan|52.1193|-106.6594
+S7P|Saskatoon North|Saskatchewan|52.1695|-106.5869
+S7R|Saskatoon Northwest|Saskatchewan|52.2022|-106.6765
+S7S|Saskatoon Northeast|Saskatchewan|52.1584|-106.5955
+S7T|Saskatoon South|Saskatchewan|52.0554|-106.7036
+S7V|Saskatoon Southeast|Saskatchewan|52.1103|-106.5698
+S9A|North Battleford|Saskatchewan|52.779|-108.2983
+S9H|Swift Current|Saskatchewan|50.2875|-107.8113
+S9V|Lloydminster|Saskatchewan|53.2719|-110.0044
+S9X|Meadow Lake|Saskatchewan|54.132|-108.4314
+Y0A|Southeastern Yukon (Watson Lake)|Yukon|60.1734|-129.0159
+Y0B|Central Yukon (Dawson City)|Yukon|64.062|-139.4351
+Y1A|Whitehorse|Yukon|60.7227|-135.0534
