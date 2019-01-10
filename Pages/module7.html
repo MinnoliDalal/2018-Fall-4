@@ -67,7 +67,7 @@
     <!-- Sample exercises -->
     <figcaption style="margin-top:35px;">You will be asked to create functions, given their docstrings, something like this:</figcaption>
     <pre class="prettyprint"><code style="font-family: monospace;font-weight:initial"> 
-      # Practice 1
+      # Practice 1: write a function according to the docstring description
 	
       def postalValidation(postalCode):
 
@@ -76,22 +76,33 @@
       Returns True if postal code entered by user is at least 3 characters and first 3 characters match 
       a postal code in postal_codes.txt 
 
-      >>>m6h
+      >>>piostalValidation('m6h')
       True
 
-      >>>m6
+      >>>postalValidation('m6')
       False
 
-      >>>LLK
+      >>>postalValidation('LLK')
       False
 
       """
 
-      # Practice 2
+      # Practice 2: write a function according to the docstring description. 
+
+      """ (int) -> bool
+
+      Returns True iff the square of the integer, num1, ends in the same digits as num1 itself. 
+      Single-digit numbers are considered Automorphic.
 	
-      # Practice 3
-	
-      # Practice 4
+      def isAutomorphic(num1) 
+
+      >>>isAutomorphic(25)
+      True
+
+      >>>isAutomorphic(13)
+      False
+
+      """
 	
       </code>
     </pre>
